@@ -13,15 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TipsCode/Git/++ verify --.md",
+                "file": "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "++ verify --"
+              "title": "10 -"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TipsCode/Git/++ verify --.md",
+                "file": "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para ++ verify --"
+              "title": "Links inversos para 10 -"
             }
           },
           {
@@ -155,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,13 +170,27 @@
   },
   "active": "c82ceb8e8a3267c6",
   "lastOpenFiles": [
+    "Fema/Algoritimos/materials/Lista_3.pdf",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/09 -  Escreva um algoritmo que leia o salário de cada funcionário, a seguir calcule e mostre o novo salário..md",
+    "Fema/Algoritimos/C++/codes/dez.cpp",
+    "Fema/Algoritimos/C++/codes/loop.cpp",
+    "Fema/Banco de Dados/materials/NOTA_FISCAL_VENDA.pdf",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/08 - Escreva um algoritmo que leia duas notas de 10 alunos.md",
+    "Fema/Algoritimos/C++/codes/run",
+    "Fema/Algoritimos/C++/codes/nove.cpp",
+    "Fema/Algoritimos/C++/Compilar e rodar no VSCode.md",
+    "TipsCode/Express/Server.md",
+    "Fema/Algoritimos/C++",
+    "TipsCode/Git/ignore.md",
     "TipsCode/Git/Deploy.md",
     "TipsCode/Git/++ verify --.md",
-    "TipsCode/Git/ignore.md",
+    "TipsCode/Express",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/07 - Faça um algoritimo que leia 10 números inteiros e...md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)",
+    "Fema/Algoritimos/Exercícios/Sem título.md",
+    "Fema/Algoritimos/Exercícios",
     "Fema/Introdução a computação/Binário.md",
-    "Fema/Introdução a computação/materials/Calculos binarios.docx",
-    "Fema/Banco de Dados/db-desinger/CLIENTE.xml",
-    "Fema/Banco de Dados/materials/NOTA_FISCAL_VENDA.pdf",
     "Fema/Introdução a computação/materials/Tabela .png"
   ]
 }
