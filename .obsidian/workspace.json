@@ -11,12 +11,14 @@
             "id": "6bcfad868e4e2f00",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fema/Banco de Dados/materials/Projeto_BD_CLINICA_VETERINARIA.pdf"
+                "file": "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/Bonus 02 - Somatorio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Projeto_BD_CLINICA_VETERINARIA"
+              "icon": "lucide-file",
+              "title": "Bonus 02 - Somatorio"
             }
           }
         ],
@@ -169,22 +171,28 @@
   },
   "active": "6bcfad868e4e2f00",
   "lastOpenFiles": [
-    "Fema/Banco de Dados/materials/Ficha_Soliticação_Exame.pdf",
-    "Fema/Banco de Dados/db-desinger/Ficha_Soliticação_Exame.pdf",
-    "Fema/Banco de Dados/materials/NOTA_FISCAL_VENDA.pdf",
-    "Fema/Banco de Dados/materials/Projeto_BD_CLINICA_VETERINARIA.pdf",
-    "Fema/Banco de Dados/db-desinger/veterinario.xml",
-    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
+    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/bonus2.cpp",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/Bonus - Somatorio.md",
     "Fema/Algoritimos/materials/Lista_3.pdf",
+    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/bonus1.cpp",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/11 - Somatório.md",
+    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/run",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/Bonus 02 - Somatorio.md",
+    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/onze.cpp",
+    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/oito.cpp",
+    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/nove.cpp",
+    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/dez.cpp",
+    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/12 - Formula de Volume.md",
+    "Fema/Algoritimos/C++/codes/bonus.cpp",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
+    "Fema/Algoritimos/C++/Hello World!.md",
+    "TipsCode/NodeJs/Node Js.md",
+    "Fema/Banco de Dados/materials/Projeto_BD_CLINICA_VETERINARIA.pdf",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/09 -  Escreva um algoritmo que leia o salário de cada funcionário, a seguir calcule e mostre o novo salário..md",
-    "Fema/Algoritimos/C++/codes/dez.cpp",
-    "Fema/Algoritimos/C++/codes/loop.cpp",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/08 - Escreva um algoritmo que leia duas notas de 10 alunos.md",
-    "Fema/Algoritimos/C++/codes/run",
-    "Fema/Algoritimos/C++/codes/nove.cpp",
     "Fema/Algoritimos/C++/Compilar e rodar no VSCode.md",
     "TipsCode/Express/Server.md",
-    "Fema/Algoritimos/C++",
     "TipsCode/Git/ignore.md",
     "TipsCode/Git/Deploy.md",
     "TipsCode/Git/++ verify --.md",
