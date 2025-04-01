@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d3dc764fa0cfabb9",
+        "id": "b1fef89513c02831",
         "type": "tabs",
         "children": [
           {
-            "id": "c82ceb8e8a3267c6",
+            "id": "6bcfad868e4e2f00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
-                "mode": "source",
-                "source": false
+                "file": "Fema/Banco de Dados/materials/Projeto_BD_CLINICA_VETERINARIA.pdf"
               },
-              "icon": "lucide-file",
-              "title": "10 -"
+              "icon": "lucide-file-text",
+              "title": "Projeto_BD_CLINICA_VETERINARIA"
             }
           }
         ],
@@ -79,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9dfa6fe045bfb838",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
+                "file": "Fema/Banco de Dados/materials/Projeto_BD_CLINICA_VETERINARIA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 10 -"
+              "title": "Links inversos para Projeto_BD_CLINICA_VETERINARIA"
             }
           },
           {
@@ -156,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +167,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c82ceb8e8a3267c6",
+  "active": "6bcfad868e4e2f00",
   "lastOpenFiles": [
-    "Fema/Algoritimos/materials/Lista_3.pdf",
+    "Fema/Banco de Dados/materials/Ficha_Soliticação_Exame.pdf",
+    "Fema/Banco de Dados/db-desinger/Ficha_Soliticação_Exame.pdf",
+    "Fema/Banco de Dados/materials/NOTA_FISCAL_VENDA.pdf",
+    "Fema/Banco de Dados/materials/Projeto_BD_CLINICA_VETERINARIA.pdf",
+    "Fema/Banco de Dados/db-desinger/veterinario.xml",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
+    "Fema/Algoritimos/materials/Lista_3.pdf",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/09 -  Escreva um algoritmo que leia o salário de cada funcionário, a seguir calcule e mostre o novo salário..md",
     "Fema/Algoritimos/C++/codes/dez.cpp",
     "Fema/Algoritimos/C++/codes/loop.cpp",
-    "Fema/Banco de Dados/materials/NOTA_FISCAL_VENDA.pdf",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/08 - Escreva um algoritmo que leia duas notas de 10 alunos.md",
     "Fema/Algoritimos/C++/codes/run",
     "Fema/Algoritimos/C++/codes/nove.cpp",
@@ -185,11 +188,8 @@
     "TipsCode/Git/ignore.md",
     "TipsCode/Git/Deploy.md",
     "TipsCode/Git/++ verify --.md",
-    "TipsCode/Express",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/07 - Faça um algoritimo que leia 10 números inteiros e...md",
-    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)",
     "Fema/Algoritimos/Exercícios/Sem título.md",
-    "Fema/Algoritimos/Exercícios",
     "Fema/Introdução a computação/Binário.md",
     "Fema/Introdução a computação/materials/Tabela .png"
   ]
