@@ -11,14 +11,12 @@
             "id": "6bcfad868e4e2f00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/13 - PI.md",
-                "mode": "source",
-                "source": false
+                "file": "Fema/Lógica/materials/4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA.pdf"
               },
-              "icon": "lucide-file",
-              "title": "13 - PI"
+              "icon": "lucide-file-text",
+              "title": "4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA"
             }
           }
         ],
@@ -171,9 +169,17 @@
   },
   "active": "6bcfad868e4e2f00",
   "lastOpenFiles": [
+    "Fema/Lógica/materials/3. CONSTRUÇÃO DE TABELAS da VERDADE.pdf",
+    "Fema/Lógica/materials/2. OPERAÇÕES LÓGICAS SOBRE PROPOSIÇÕES.pdf",
+    "Fema/Lógica/Condições.md",
+    "Fema/Lógica/Como construir?.md",
+    "Fema/Lógica/Linhas.md",
+    "Fema/Lógica/Tabela.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/13 - PI.md",
+    "Fema/Lógica/materials/4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA.pdf",
+    "Fema/Lógica/materials/5. EQUIVALÊNCIA LÓGICA e IMPLICAÇÃO LÓGICA-1.pdf",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/treze.cpp",
     "Fema/Algoritimos/materials/Lista_3.pdf",
-    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/13 - PI.md",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/Bonus 02 - Somatorio.md",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/12 - Formula de Volume.md",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/11 - Somatório.md",
@@ -182,11 +188,6 @@
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/bonus1.cpp",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/run",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/onze.cpp",
-    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/oito.cpp",
-    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/nove.cpp",
-    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/dez.cpp",
-    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )",
-    "Fema/Algoritimos/C++/codes/bonus.cpp",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/10 -.md",
     "Fema/Algoritimos/C++/Hello World!.md",
     "TipsCode/NodeJs/Node Js.md",
