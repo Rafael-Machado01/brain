@@ -11,12 +11,14 @@
             "id": "6bcfad868e4e2f00",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fema/Lógica/materials/4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA.pdf"
+                "file": "Fema/Lógica/Condições.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA"
+              "icon": "lucide-file",
+              "title": "Condições"
             }
           }
         ],
@@ -169,14 +171,15 @@
   },
   "active": "6bcfad868e4e2f00",
   "lastOpenFiles": [
+    "Fema/Lógica/Linhas.md",
+    "Fema/Lógica/Tautologia Contradições e Continência.md",
+    "Fema/Lógica/materials/4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA.pdf",
     "Fema/Lógica/materials/3. CONSTRUÇÃO DE TABELAS da VERDADE.pdf",
     "Fema/Lógica/materials/2. OPERAÇÕES LÓGICAS SOBRE PROPOSIÇÕES.pdf",
     "Fema/Lógica/Condições.md",
     "Fema/Lógica/Como construir?.md",
-    "Fema/Lógica/Linhas.md",
     "Fema/Lógica/Tabela.md",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/13 - PI.md",
-    "Fema/Lógica/materials/4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA.pdf",
     "Fema/Lógica/materials/5. EQUIVALÊNCIA LÓGICA e IMPLICAÇÃO LÓGICA-1.pdf",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/treze.cpp",
     "Fema/Algoritimos/materials/Lista_3.pdf",
