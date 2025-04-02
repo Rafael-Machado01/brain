@@ -3,14 +3,16 @@ ALGORITIMO DOZE;
 VAR
 R, PI,RE : REAL
 INICIO
-R <- 0;
+R <- 1;
 PI <- 3,14
-IMPRIMA "Digite o raio do objeto : ";
-LEIA R;
-R <- R * R * R;
-R <- R * PI;
-R <- R * 3;
-RE <- R / 4;
+ENQUANTO(R <= 20) 
+ FAÇA 
+  R <- R * R * R;
+  R <- R * PI;
+  R <- R * 3;
+  RE <- R / 4;
+  
+  R <- R + 0.50;
 IMPRIMA "O Volume é : ", RE;
 fim
 ```
