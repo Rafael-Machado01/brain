@@ -1,7 +1,7 @@
 ```
 ALGORITIMO BONUS
 VAR
-I,CONT,CONT20,MAIOR : INTEIRO
+I,CONT,CONT20,MAIOR,CONTI : INTEIRO
 FLOAT P;
 INICIO
 CONT=1;
@@ -14,6 +14,7 @@ LEIA I;
 
 ENQUANTO(I != 0)
 FAÇA
+	CONTI <- CONTI + I;
 	CONT <- CONT + 1;
 	SE(I > MAIOR) 
 	ENTÃO MAIOR <- I
@@ -22,7 +23,7 @@ FAÇA
 	IMPRIMA "Digite a idade."
 	LEIA I;
 	
-M <- I / CONT;
+M <- CONTI / CONT;
 P <- (CONT / CONT20) *100;
 
 IMPRIMA "A quantidade de alunos na sala é :", CONT;
