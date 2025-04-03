@@ -13,7 +13,6 @@ V F F
 P Q P v Q
 V V V
 V F V
-F V V
 F F F
 
 # Operador OU DISJ / OR _ _V
