@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/Bonus 03.md",
+                "file": "Fema/Ihc/Trabalho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bonus 03"
+              "title": "Trabalho"
             }
           }
         ],
@@ -171,9 +171,14 @@
   },
   "active": "6bcfad868e4e2f00",
   "lastOpenFiles": [
+    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/Bonus 03.md",
+    "Fema/Ihc/Trabalho.md",
+    "Fema/Ihc",
+    "Fema/Estatistica/materials",
+    "Fema/Estatistica",
+    "Fema/Estat.md",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/bonus3.cpp",
     "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/16 - Peso.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/Bonus 03.md",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/dezeseis.cpp",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/dezseis",
     "Fema/Algoritimos/materials/Lista_3.pdf",
@@ -188,13 +193,9 @@
     "Fema/Lógica/Condições.md",
     "Fema/Lógica/Linhas.md",
     "Fema/Lógica/Tautologia Contradições e Continência.md",
-    "Fema/Lógica/materials/4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA.pdf",
-    "Fema/Lógica/materials/3. CONSTRUÇÃO DE TABELAS da VERDADE.pdf",
-    "Fema/Lógica/materials/2. OPERAÇÕES LÓGICAS SOBRE PROPOSIÇÕES.pdf",
     "Fema/Lógica/Como construir?.md",
     "Fema/Lógica/Tabela.md",
     "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/13 - PI.md",
-    "Fema/Lógica/materials/5. EQUIVALÊNCIA LÓGICA e IMPLICAÇÃO LÓGICA-1.pdf",
     "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/Bonus 02 - Somatorio.md",
     "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/Bonus - Somatorio.md",
     "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/10 -.md",
@@ -206,7 +207,6 @@
     "TipsCode/Git/ignore.md",
     "TipsCode/Git/Deploy.md",
     "TipsCode/Git/++ verify --.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/07 - Faça um algoritimo que leia 10 números inteiros e...md",
     "Fema/Introdução a computação/materials/Tabela .png"
   ]
 }
