@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fema/Ihc/Trabalho.md",
+                "file": "Fema/Algoritimos/Exercícios/Repita/Cresce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trabalho"
+              "title": "Cresce"
             }
           }
         ],
@@ -45,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -161,52 +161,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6bcfad868e4e2f00",
+  "active": "658de6208ac9329e",
   "lastOpenFiles": [
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/Bonus 03.md",
+    "Fema/Algoritimos/C++/codes/Ate",
+    "Fema/Algoritimos/C++/codes/Untitled.md",
+    "Fema/Algoritimos/Exercícios/Repita/Cresce.md",
+    "Fema/Algoritimos/C++/codes/Repita.md",
+    "Fema/Algoritimos/Exercícios/Repita/Untitled.md",
+    "Fema/Lógica/<=> Comparação.md",
+    "Fema/Lógica/materials/5. EQUIVALÊNCIA LÓGICA e IMPLICAÇÃO LÓGICA-1.pdf",
+    "Fema/Lógica/Como construir?.md",
+    "Fema/Lógica/Condições.md",
+    "Fema/Lógica/Tautologia Contradições e Continência.md",
+    "Fema/Lógica/Linhas.md",
+    "Fema/Algoritimos/Exercícios/Repita/Construa um algoritimo que leia 10 números inteiros e, a seguir, calcule e mostre.md",
+    "Fema/Algoritimos/Teoria/Repita ... Até.md",
+    "Fema/Algoritimos/Exercícios/Repita",
+    "TipsCode/ReactJS/Aulas/Destruction.md",
+    "Untitled.canvas",
+    "TipsCode/ReactJS/Aulas/Manipulação de eventos.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/07 - Faça um algoritimo que leia 10 números inteiros e...md",
+    "Fema/Algoritimos/Teoria",
     "Fema/Ihc/Trabalho.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/Bonus 03.md",
     "Fema/Ihc",
     "Fema/Estatistica/materials",
     "Fema/Estatistica",
     "Fema/Estat.md",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/bonus3.cpp",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/16 - Peso.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/16 - Peso.md",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/dezeseis.cpp",
     "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/dezseis",
     "Fema/Algoritimos/materials/Lista_3.pdf",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/15 - Ilumine.md",
-    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/quinze.cpp",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/15 - Ilumine.md",
     "Fema/Algoritimos/C++/Compilar e rodar no VSCode.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/14 - Salario.md",
-    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/catorze.cpp",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/12 - Formula de Volume.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/11 - Somatório.md",
-    "Fema/Algoritimos/C++/codes/Lista 3 ( Enquanto )/doze.cpp",
-    "Fema/Lógica/Condições.md",
-    "Fema/Lógica/Linhas.md",
-    "Fema/Lógica/Tautologia Contradições e Continência.md",
-    "Fema/Lógica/Como construir?.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/14 - Salario.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/12 - Formula de Volume.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/11 - Somatório.md",
     "Fema/Lógica/Tabela.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/13 - PI.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/Bonus 02 - Somatorio.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/Bonus - Somatorio.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/10 -.md",
-    "Fema/Algoritimos/C++/Hello World!.md",
-    "TipsCode/NodeJs/Node Js.md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/09 -  Escreva um algoritmo que leia o salário de cada funcionário, a seguir calcule e mostre o novo salário..md",
-    "Fema/Algoritimos/C++/Exercícios/Lista 3 ( Enquanto)/08 - Escreva um algoritmo que leia duas notas de 10 alunos.md",
-    "TipsCode/Express/Server.md",
-    "TipsCode/Git/ignore.md",
-    "TipsCode/Git/Deploy.md",
-    "TipsCode/Git/++ verify --.md",
+    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/13 - PI.md",
     "Fema/Introdução a computação/materials/Tabela .png"
   ]
 }
