@@ -1,4 +1,4 @@
-A multiplicação entre todos os números lidos;
+	A multiplicação entre todos os números lidos;
 
 O resto da divisão do quinto numero lido, por 7;
 
