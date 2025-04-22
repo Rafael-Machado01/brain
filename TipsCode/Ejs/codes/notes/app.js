@@ -2,21 +2,27 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
+app.use(express.urlencoded({extended : true})) // Para "liberar para ler o html"
+
 app.set('view engine', 'ejs')
 app.listen( port, () => {
 console.log('O servidor está em', port);
 });
-
+var item = []
 app.get('/', (req,res) => {
-   const date = new Date();
-   let day = date.getDay();
-   let msg = ''
-if(day == 6 || day == 0) {
-   msg = 'Final de semana'
-   res.send('Hoje é fim de semana! Para de trabalhar.')
+  let today = new Date();
+  let options = {
+   weekday: 'long',year: 'numeric', month: 'long', day:'numeric'}
+   let day = today.toLocaleDateString('pt-BR',options);
    
-}else {
-   msg = 'Dia de semana';
-}
-res.render('list', {msg : msg} )
+res.render('list', {day : day, task : item} )
+});
+
+
+app.post('/', (req,res) => {
+   let item = req.body.add;
+   item.push(newItem)
+   console.log(item)
+   res.redirect('/')
+
 })

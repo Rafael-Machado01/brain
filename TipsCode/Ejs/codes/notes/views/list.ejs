@@ -6,7 +6,22 @@
    <title>Document</title>
 </head>
 <body>
-   <h1><%= msg%></h1>
-   <p>Hoje é um dia de muito trabalho</p>
+   <h1><%=day%></h1>
+   <form action="/" method="post">
+      <input name="add" type="text" placeholder="Digite sua Tarefa">
+      <button>Adicionar</button>
+   </form>
+   <ul>
+      <li>Arroz</li>
+      <li>Feijão</li>
+      <li>Alface</li>
+      <ul>
+         <% item.forEach(function(task) { %>
+            <li><%= task %></li>
+         <% }); %>
+      </ul>
+      
+   </ul>
+
 </body>
 </html>
