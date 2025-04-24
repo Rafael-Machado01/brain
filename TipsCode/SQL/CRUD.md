@@ -36,5 +36,34 @@ VALUES (1, 'Celular', 2000)
 ```
 Strings são declarados em aspas simples.
 
+# Update
 
+```
+UPDATE PRODUTOS
+SET PRECO = 5.0
+WHERE ID=2
+````
+Use Where para espesifico.
 
+# Alter
+
+````
+ALTER TABLE PRODUTOS 
+ADD ESTOQUE INT 
+````
+Adicionar uma coluna na tabela.
+
+# Delete
+
+````
+DELETE FROM PRODUTOS
+WHERE ID=2;
+````
+Deleta com condição where.
+
+# Drop
+
+````
+DROP TABLE PRODUTOS
+````
+Deleta a tabela 
