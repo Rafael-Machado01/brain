@@ -67,3 +67,26 @@ Deleta com condição where.
 DROP TABLE PRODUTOS
 ````
 Deleta a tabela 
+
+
+# Foreing Key
+```
+CREATE TABLE PEDIDO (
+  ID INT NOT NULL,
+  NPEDIDO INT,
+  CLIENT_ID INT,
+  PRODUTO_ID INT,
+  PRIMARY KEY (ID),
+  FOREIGN KEY (CLIENT_ID) REFERENCES CLIENTES(ID),
+  FOREIGN KEY (PRODUTO_ID) REFERENCES PRODUTOS(ID)
+  )
+````
+
+Aqui o client_id esta usando uma foreign key da tabela client e o id dele.
+
+
+# Inner Join
+````
+SELECT PEDIDOS.NPEDIDO 
+FROM PEDIDOS
+

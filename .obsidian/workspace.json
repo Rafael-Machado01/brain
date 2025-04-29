@@ -11,14 +11,12 @@
             "id": "6bcfad868e4e2f00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Fema/Algoritimos/Exercícios/Para ... Até/04 -.md",
-                "mode": "source",
-                "source": false
+                "file": "Fema/Banco de Dados/materials/vacinas.pdf"
               },
-              "icon": "lucide-file",
-              "title": "04 -"
+              "icon": "lucide-file-text",
+              "title": "vacinas"
             }
           }
         ],
@@ -171,21 +169,24 @@
   },
   "active": "6bcfad868e4e2f00",
   "lastOpenFiles": [
-    "Fema/Algoritimos/Exercícios/Para ... Até/03 -.md",
+    "Fema/Banco de Dados/materials/Ficha_Soliticação_Exame.pdf",
+    "Fema/Banco de Dados/materials/vacinas.pdf",
+    "Fema/Banco de Dados/materials/NOTA_FISCAL_VENDA.pdf",
+    "Fema/Banco de Dados/materials/Projeto_BD_CLINICA_VETERINARIA.pdf",
+    "Fema/Banco de Dados/materials/veiculos.pdf",
+    "Fema/Estastisca/Medidas de Tendencia Central.md",
+    "TipsCode/SQL/CRUD.md",
+    "Fema/Estastisca",
+    "TipsCode/Untitled",
+    "Fema/Ihc/Respostas.md",
     "Fema/Algoritimos/Exercícios/Para ... Até/04 -.md",
+    "Fema/Algoritimos/Exercícios/Para ... Até/03 -.md",
     "Fema/Algoritimos/Exercícios/Para ... Até/Untitled",
     "Fema/Algoritimos/C++/codes/for/quatro.cpp",
     "Fema/Algoritimos/Exercícios/Para ... Até/02 - 10 elementos.md",
     "Fema/Lógica/Portas Lógicas.md",
     "Fema/Algoritimos/C++/codes/for/tres.cpp",
     "Fema/Algoritimos/C++/codes/for/run",
-    "Fema/Algoritimos/C++/codes/for/dois.cpp",
-    "Fema/Lógica/materials/portas.pdf",
-    "Fema/Lógica/Untitled",
-    "Fema/Lógica/materials/5. EQUIVALÊNCIA LÓGICA e IMPLICAÇÃO LÓGICA-1.pdf",
-    "Fema/Lógica/materials/4. TAUTOLOGIA, CONTRADIÇÃO e CONTINGÊNCIA.pdf",
-    "Fema/Lógica/materials/3. CONSTRUÇÃO DE TABELAS da VERDADE.pdf",
-    "TipsCode/SQL/CRUD.md",
     "Fema/Algoritimos/Exercícios/Para ... Até/01 Construa um algoritimo.md",
     "Fema/Algoritimos/Teoria/Para ... até.md",
     "Fema/Algoritimos/Exercícios/Para ..md",
@@ -204,13 +205,10 @@
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/14 - Salario.md",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/15 - Ilumine.md",
     "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/12 - Formula de Volume.md",
-    "Fema/Algoritimos/Exercícios/Lista 3 ( Enquanto)/Bonus - Somatorio.md",
-    "Fema/Algoritimos/Exercícios/Repita/04 REF - Somatório.md",
     "TipsCode/ReactJS/Imagens/Pasted image 20250115160139.png",
     "TipsCode/ReactJS/Imagens/Pasted image 20250115093450.png",
     "TipsCode/ReactJS/Imagens/Pasted image 20250115075201.png",
     "TipsCode/ReactJS/Imagens/Pasted image 20250115074703.png",
-    "TipsCode/ReactJS/Aulas/useState.md",
     "Untitled.canvas",
     "Fema/Introdução a computação/materials/Tabela .png"
   ]
