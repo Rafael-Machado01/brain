@@ -1,24 +1,29 @@
-import GlobalStyle from "./style" ;
-import styled from 'style-components';
+import Form from './components/Form'
+import Grid from './components/Grid'
+import { useEffect, useState } from 'react';
+import axios from 'axios';
 
-const Container = styled.div`
-  width: 100%;
-  max-width: 800px;
-  margin-top: 20px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-
-`
 function App() {
+  const [products, setProducts] = useState([]);
+  const [onEdit, setonEdit] = useState(null)
+  const getProducts = async () => {
+    try { 
+      const res = await axios.get('http://localhost:3333/');
+      setProducts(res.data);
+    }
+    catch(error) {
+      console.log(error)
+    }
+  }
+  useEffect( () => {
+    getProducts()
+  }, [setProducts])
   return (
   <>
-  <Container>
     Cadrastro de Produtos
-  </Container>
-  <GlobalStyle/>
+    <Form/>
+    <Grid products={products}/>
   </>
   );
 }
-
 export default App;

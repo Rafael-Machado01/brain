@@ -3,8 +3,8 @@ import cors from 'cors';
 import produtosRoute from './routes/produtos.js'
 
 const app = express();
-const port = 3000;
-
+const port = 3333;
+app.use(express.urlencoded({extended: true}))
 app.use(express.json());
 app.use(cors());
 
