@@ -44,4 +44,47 @@ Indice: Depende da coluna e linha. Como batalha naval.
 
 Cálculos com matriz, geralmente usam Diagonais.
 
+# Unsigned 
+Este não é bem uma variável é um atributo que podemos colocar antes de declarar a variável.
+
+```
+usingned int x = 2 // x não pode ser negativo.
+````
+
+# Double
+Usado para números que sejam precisos 
+
+````
+double = pi = 3,1415926535
+````
+
+# Bool 
+Valores booleanos
+
+```
+bool a = true // Valores verdadeiros ou falsos.
+````
+
+# Char 
+Para guardar apenas um caractere 
+
+ ```
+char letra = 'B' // Em aspas simples.
+````
+
+Podemos usar um vetor para guardar uma frase ou sequencia de caracteres 
+
+````
+char palavra[11] = "laranja" // Em Aspas Duplas.
+````
+
+## Melhor que vetor
+É usar a biblioteca string.
+
+```
+#include <string>
+
+string palavra = "teste" // Permite até fazer operacões como juntar strings.
+````
+
 

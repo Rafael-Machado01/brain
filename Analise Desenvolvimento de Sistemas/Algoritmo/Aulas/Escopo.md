@@ -1,0 +1,10 @@
+O conceito de escopo na programação é algo básico que existe em todas as linguagens. Ele define onde uma variável pode ser acessada.
+
+Por exemplo 
+````
+int main() {
+x = 0
+}
+cout << x; // Variavel x not declared.
+````
+x foi declarado porem apenas dentro da função main e não pode ser acessada.

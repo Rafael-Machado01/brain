@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Operadores.md",
+                "file": "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Variáveis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operadores"
+              "title": "Variáveis"
             }
           }
         ]
@@ -166,10 +166,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "17d9f152f14ed074",
+  "active": "7b5e2c86476bd32c",
   "lastOpenFiles": [
-    "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Porcentagem.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Escopo.md",
     "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Operadores.md",
+    "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Porcentagem.md",
     "Analise Desenvolvimento de Sistemas/Lógica/Aulas",
     "Analise Desenvolvimento de Sistemas/Lógica",
     "Sem título",
