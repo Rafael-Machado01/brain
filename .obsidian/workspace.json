@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd0fd44170f7f40",
+        "id": "cdd2ce5ca5e70e45",
         "type": "tabs",
         "children": [
           {
-            "id": "7b5e2c86476bd32c",
+            "id": "d9d71c9f5a8a2b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Variáveis.md",
+                "file": "Versel/React Foundations/Cliente vs Servidor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variáveis"
+              "title": "Cliente vs Servidor"
             }
           }
         ]
@@ -166,35 +166,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7b5e2c86476bd32c",
+  "active": "17d9f152f14ed074",
   "lastOpenFiles": [
+    "Versel/PNG/Pasted image 20250729072737.png",
+    "Versel/PNG/Pasted image 20250729072656.png",
+    "Versel/PNG/Pasted image 20250721202938.png",
+    "Versel/PNG/Pasted image 20250720182635.png",
+    "Versel/PNG/Pasted image 20250720182044.png",
+    "Versel/PNG/Pasted image 20250729073059.png",
+    "Versel/PNG/Pasted image 20250729072739.png",
+    "Versel/PNG/Pasted image 20250729072737 1.png",
+    "Versel/PNG",
+    "Versel/App Router/Project/nextjs-dashboard/node_modules/@tailwindcss",
+    "Versel/App Router/Project/nextjs-dashboard/node_modules/@heroicons",
+    "Versel/App Router/Project/nextjs-dashboard/node_modules/@types",
+    "Versel/App Router/Project/nextjs-dashboard/node_modules",
+    "Versel/App Router/Project/nextjs-dashboard/_tmp_10245_52732f90f09820c323fd2d7799aa487e",
+    "Versel/App Router/Project/nextjs-dashboard/next-env.d.ts",
+    "Versel/App Router/Project/nextjs-dashboard/tsconfig.json",
+    "Versel/App Router/Project/nextjs-dashboard/tailwind.config.ts",
+    "Versel/App Router/Project/nextjs-dashboard/public/opengraph-image.png",
+    "Versel/App Router/Project/nextjs-dashboard/public/hero-mobile.png",
+    "Versel/App Router/Project/nextjs-dashboard/public/customers/michael-novotny.png",
+    "Versel/App Router/Project/nextjs-dashboard/public/favicon.ico",
+    "Versel/App Router/Project/nextjs-dashboard/README.md",
+    "Versel/React Foundations/Estados.md",
+    "Versel/React Foundations/Cliente vs Servidor.md",
+    "Versel/React Foundations/Components.md",
+    "Versel/React Foundations/Props.md",
+    "Versel/React Foundations/Programação Imperativa Vs Declarativa.md",
+    "Versel/React Foundations/UI.md",
+    "Versel/React Foundations/DOM Document Object Model.md",
+    "Versel/React Foundations/NextJS.md",
+    "Versel/React Foundations/React.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Variáveis.md",
+    "Versel/Sem título.canvas",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Escopo.md",
     "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Operadores.md",
     "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Porcentagem.md",
-    "Analise Desenvolvimento de Sistemas/Lógica/Aulas",
-    "Analise Desenvolvimento de Sistemas/Lógica",
-    "Sem título",
     "Sem título.md",
     "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Arrendondar Números.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Relacionamentos.md",
-    "Analise Desenvolvimento de Sistemas/Estatística/Materiais/Arredondamento de números.pdf",
-    "Analise Desenvolvimento de Sistemas/Estatística/Aulas",
     "Analise Desenvolvimento de Sistemas/Estatística/Sem título.md",
-    "Analise Desenvolvimento de Sistemas/Computação/Aulas",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Modelagem.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Variáveis.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Estrutura Básica.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Diagonais.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Chaves.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Tipos.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250715132928.png",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Sem título.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/matriz.pdf",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Loop.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/Portugol",
-    "Bem-vindo.md",
-    "Analise Desenvolvimento de Sistemas/Sem título.md"
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Loop.md"
   ]
 }
