@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cdd2ce5ca5e70e45",
+        "id": "2b77ac8b5a0ad45e",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d71c9f5a8a2b93",
+            "id": "82cd3ae244b3b038",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Versel/React Foundations/Cliente vs Servidor.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Cliente vs Servidor"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -74,11 +77,12 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "right": {
     "id": "53b22d944ce786f7",
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Versel/App Router/Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Link"
             }
           },
           {
@@ -166,54 +171,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "17d9f152f14ed074",
+  "active": "82cd3ae244b3b038",
   "lastOpenFiles": [
-    "Versel/PNG/Pasted image 20250729072737.png",
-    "Versel/PNG/Pasted image 20250729072656.png",
-    "Versel/PNG/Pasted image 20250721202938.png",
-    "Versel/PNG/Pasted image 20250720182635.png",
-    "Versel/PNG/Pasted image 20250720182044.png",
-    "Versel/PNG/Pasted image 20250729073059.png",
-    "Versel/PNG/Pasted image 20250729072739.png",
-    "Versel/PNG/Pasted image 20250729072737 1.png",
-    "Versel/PNG",
-    "Versel/App Router/Project/nextjs-dashboard/node_modules/@tailwindcss",
-    "Versel/App Router/Project/nextjs-dashboard/node_modules/@heroicons",
-    "Versel/App Router/Project/nextjs-dashboard/node_modules/@types",
-    "Versel/App Router/Project/nextjs-dashboard/node_modules",
-    "Versel/App Router/Project/nextjs-dashboard/_tmp_10245_52732f90f09820c323fd2d7799aa487e",
-    "Versel/App Router/Project/nextjs-dashboard/next-env.d.ts",
-    "Versel/App Router/Project/nextjs-dashboard/tsconfig.json",
-    "Versel/App Router/Project/nextjs-dashboard/tailwind.config.ts",
-    "Versel/App Router/Project/nextjs-dashboard/public/opengraph-image.png",
-    "Versel/App Router/Project/nextjs-dashboard/public/hero-mobile.png",
-    "Versel/App Router/Project/nextjs-dashboard/public/customers/michael-novotny.png",
-    "Versel/App Router/Project/nextjs-dashboard/public/favicon.ico",
+    "Sem título.canvas",
+    "2025-07-31.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Exercícios Função.pdf",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/exemple.cpp",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/01.cpp",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Diagonais.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/17- AULA 30072025 - MATEMÁTICA I -2 - teoria dos conjuntos.pdf",
+    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250731072338.png",
+    "Versel/App Router/Exemplo de busca no banco de dados..md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Operações com Conjuntos.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Igualdade dos conjuntos.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Funcao.pdf",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/thats.cpp",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/return.cpp",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/run",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Variáveis.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Loop.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Funções.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Estrutura Básica.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/um.cpp",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20250730214339.png",
+    "Analise Desenvolvimento de Sistemas/Matematica/Plano Cartesiano.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Motivação.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Simbolos.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250730210811.png",
+    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250730210251.png",
+    "Versel/PNG/Pasted image 20250730072006.png",
+    "Versel/PNG/Pasted image 20250730070428.png",
+    "Versel/PNG/Pasted image 20250729193209.png",
+    "Versel/PNG/Pasted image 20250729143830.png",
+    "Versel/PNG/Pasted image 20250730070413.png",
+    "Versel/PNG/Pasted image 20250730070157.png",
+    "Versel/App Router/Link.md",
+    "Versel/App Router/Layout.md",
+    "Versel/App Router/Roteador.md",
+    "Versel/App Router/Estrutura de Pasta.md",
+    "Versel/App Router/Image.md",
+    "Versel/App Router/Fontes.md",
+    "Versel/App Router/CLSX.md",
+    "Versel/App Router/Style Global.md",
+    "Versel/App Router/Alias.md",
+    "Versel/React Foundations/Cliente vs Servidor.md",
     "Versel/App Router/Project/nextjs-dashboard/README.md",
     "Versel/React Foundations/Estados.md",
-    "Versel/React Foundations/Cliente vs Servidor.md",
     "Versel/React Foundations/Components.md",
-    "Versel/React Foundations/Props.md",
-    "Versel/React Foundations/Programação Imperativa Vs Declarativa.md",
-    "Versel/React Foundations/UI.md",
-    "Versel/React Foundations/DOM Document Object Model.md",
-    "Versel/React Foundations/NextJS.md",
-    "Versel/React Foundations/React.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Variáveis.md",
-    "Versel/Sem título.canvas",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Escopo.md",
-    "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Operadores.md",
-    "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Porcentagem.md",
-    "Sem título.md",
-    "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Arrendondar Números.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Relacionamentos.md",
-    "Analise Desenvolvimento de Sistemas/Estatística/Sem título.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Modelagem.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Estrutura Básica.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Diagonais.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Chaves.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Tipos.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Sem título.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Loop.md"
+    "Versel/Sem título.canvas"
   ]
 }

@@ -7,7 +7,7 @@ O navegador então lê o HTML e constrói o Document Object Model (DOM).
 ![[Pasted image 20250720182635.png]]
 Você pode usar métodos DOM e Javascript, para ouvir eventos do usuários e manipular o DOM, Selecionando, adicionando, atualizando e excluindo elementos específicos do [[UI]].
 
-Olhe o [Código de exemplo de atualizar a pagina com o DOM](./DOMupdate.html)
+Olhe o [Código de exemplo de atualizar a pagina com o DOM](DOMupdate.html)
 
 ![[Pasted image 20250721202938.png]]
 
