@@ -11,17 +11,24 @@
             "id": "82cd3ae244b3b038",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "338fe49e1b78e867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/SQL DML.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "SQL DML"
             }
           }
         ]
@@ -77,12 +84,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "53b22d944ce786f7",
@@ -98,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Versel/App Router/Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Link"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,27 +178,41 @@
   },
   "active": "82cd3ae244b3b038",
   "lastOpenFiles": [
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/SQL DML.md",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250804210222.png",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250804201053.png",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250804200504.png",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/DELETE.md",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/UPDATE.md",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/INSERT.md",
+    "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Operadores.md",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Informações_para_Criar_Conexão.pdf",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250715132928.png",
+    "Versel/App Router/CLSX.md",
+    "Versel/App Router/Image.md",
+    "Versel/App Router/Layout.md",
+    "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Arrendondar Números.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/17- AULA 30072025 - MATEMÁTICA I -2 - teoria dos conjuntos.pdf",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Exercícios Função.pdf",
+    "Analise Desenvolvimento de Sistemas/Ingles/Pesquisa Uso de Sistemas na Medicina.md",
+    "Analise Desenvolvimento de Sistemas/Ingles",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/04.cpp",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/03.cpp",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/02.cpp",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/01.cpp",
     "Sem título.canvas",
     "2025-07-31.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Exercícios Função.pdf",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/exemple.cpp",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/01.cpp",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Diagonais.md",
-    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/17- AULA 30072025 - MATEMÁTICA I -2 - teoria dos conjuntos.pdf",
     "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250731072338.png",
     "Versel/App Router/Exemplo de busca no banco de dados..md",
     "Analise Desenvolvimento de Sistemas/Matematica/Operações com Conjuntos.md",
     "Analise Desenvolvimento de Sistemas/Matematica/Igualdade dos conjuntos.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Funcao.pdf",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/thats.cpp",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/return.cpp",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/run",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Variáveis.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Loop.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Funções.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Estrutura Básica.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/um.cpp",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20250730214339.png",
     "Analise Desenvolvimento de Sistemas/Matematica/Plano Cartesiano.md",
     "Analise Desenvolvimento de Sistemas/Matematica/Motivação.md",
@@ -202,23 +221,9 @@
     "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250730210251.png",
     "Versel/PNG/Pasted image 20250730072006.png",
     "Versel/PNG/Pasted image 20250730070428.png",
-    "Versel/PNG/Pasted image 20250729193209.png",
-    "Versel/PNG/Pasted image 20250729143830.png",
-    "Versel/PNG/Pasted image 20250730070413.png",
-    "Versel/PNG/Pasted image 20250730070157.png",
     "Versel/App Router/Link.md",
-    "Versel/App Router/Layout.md",
     "Versel/App Router/Roteador.md",
     "Versel/App Router/Estrutura de Pasta.md",
-    "Versel/App Router/Image.md",
-    "Versel/App Router/Fontes.md",
-    "Versel/App Router/CLSX.md",
-    "Versel/App Router/Style Global.md",
-    "Versel/App Router/Alias.md",
-    "Versel/React Foundations/Cliente vs Servidor.md",
-    "Versel/App Router/Project/nextjs-dashboard/README.md",
-    "Versel/React Foundations/Estados.md",
-    "Versel/React Foundations/Components.md",
     "Versel/Sem título.canvas"
   ]
 }
