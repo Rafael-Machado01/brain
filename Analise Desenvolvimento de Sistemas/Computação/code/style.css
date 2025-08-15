@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+   border: 0;
+}
+
+body {
+   background: #195af2;
+   color: #f6f6f6;
+}
+p {
+   text-align: justify;
+}
