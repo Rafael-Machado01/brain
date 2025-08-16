@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/DELETE.md",
+                "file": "fac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DELETE"
+              "title": "fac"
             }
           }
         ]
@@ -166,13 +166,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "17d9f152f14ed074",
+  "active": "1490de435f498c07",
   "lastOpenFiles": [
+    "Pasted image 20250814222729.png",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/DELETE.md",
+    "fac.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/celio05.cpp",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/run",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/celio04.cpp",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/UPDATE.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/DELETE.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/atividade.sql",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/INSERT.md",
     "TipsCode/useState vs useRef.md",
@@ -187,7 +189,6 @@
     "TipsCode/shop-app/api/node_modules/iconv-lite/Changelog.md",
     "Versel/App Router/Fontes.md",
     "TipsCode/shop-app/view/src/app/ui/components/form.jsx",
-    "TipsCode/shop-app/view/src/app/ui/components",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Teste de mesas/01 - nove.md",
     "Analise Desenvolvimento de Sistemas/Computação/HTML.md",
     "Analise Desenvolvimento de Sistemas/Sem título.md",
@@ -209,7 +210,6 @@
     "Versel/App Router/Exemplo de busca no banco de dados..md",
     "Analise Desenvolvimento de Sistemas/Matematica/Operações com Conjuntos.md",
     "Analise Desenvolvimento de Sistemas/Matematica/Igualdade dos conjuntos.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Variáveis.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20250730214339.png",
     "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250730210811.png",
     "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250730210251.png",
