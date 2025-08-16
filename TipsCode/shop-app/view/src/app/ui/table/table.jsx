@@ -45,7 +45,7 @@ export default function Table({ products,setProducts, setOnEdit }) {
               <FaEdit
                 className="text-blue-600 m-2 hover:cursor-grab"
                 size={20}
-                onClick={handleEdit}
+                onClick={() => handleEdit(item)}
               />
             </div>
           </div>
