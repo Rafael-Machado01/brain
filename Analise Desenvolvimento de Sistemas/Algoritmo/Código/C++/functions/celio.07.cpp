@@ -21,7 +21,10 @@ void read() {
 }
 
 void calc() {
+   int s=0;
    for(int i=0;i < l; i++) {
-      cout << "O valor de estoque do produto " << i << "  " << q[i] * p[i] << "\n";
+      cout << "O valor do produto " << i << "  " << q[i] * p[i] << "\n";
+      s += q[i] * p[i];
    }
+   cout << "O valor do estoque é " << s;
 }
