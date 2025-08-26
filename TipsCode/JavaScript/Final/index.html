@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Soma</title>
+</head>
+<body>
+      <label for="n1">Digite o primeiro número</label>
+      <input type="number" id="n1">
+      <label for="n1">Digite o segundo número</label>
+      <input type="number" id="n2">
+      <button onclick="Click()">Calcular</button>
+      <script>
+         function Click() {
+             const  input1 = document.getElementById('n1');
+             let v1 = Number (input1.value);
+             const input2 = document.getElementById('n2');
+             let v2 = Number (input2.value);
+            console.log(v1+v2)
+         }
+      </script>
+</body>
+
+</html>

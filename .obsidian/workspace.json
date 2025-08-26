@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58c6521f140ecb39",
+        "id": "8a1fa033eee9e637",
         "type": "tabs",
         "children": [
           {
-            "id": "768c0d2a5488ec8e",
+            "id": "b2f923cb25db138d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Exercícios Função.pdf"
+                "file": "TipsCode/JavaScript/images/Pasted image 20250826043320.png"
               },
-              "icon": "lucide-file-text",
-              "title": "11_Exercícios Função"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250826043320"
             }
           }
         ]
@@ -167,23 +167,34 @@
   },
   "active": "17d9f152f14ed074",
   "lastOpenFiles": [
+    "TipsCode/JavaScript/images",
+    "TipsCode/JavaScript/Função Filter.md",
+    "TipsCode/JavaScript/images/Pasted image 20250826050746.png",
+    "TipsCode/JavaScript/Exercicio map.md",
+    "TipsCode/JavaScript/Função Map.md",
+    "TipsCode/JavaScript/images/Pasted image 20250826043320.png",
+    "TipsCode/JavaScript/Codes/index.html",
+    "TipsCode/JavaScript/Codes",
+    "TipsCode/JavaScript/Exercício Final JavaScript.md",
+    "TipsCode/JavaScript/Final",
+    "Analise Desenvolvimento de Sistemas/Computação/Materiais/Pasted image 20250819201518.png",
+    "TipsCode/JavaScript",
+    "Analise Desenvolvimento de Sistemas/Computação/Materiais",
+    "Analise Desenvolvimento de Sistemas/Computação/HTML/Listas.md",
+    "Analise Desenvolvimento de Sistemas/Computação/Materiais/Pasted image 20250819202419.png",
+    "Analise Desenvolvimento de Sistemas/Computação/Materiais/Pasted image 20250819201826.png",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Exercícios Função.pdf",
+    "Analise Desenvolvimento de Sistemas/Computação/HTML",
     "Pasted image 20250814222729.png",
     "Sem título.base",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Exercícios Função.pdf",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Funcao.pdf",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Exercícios Funções.pdf",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Lista 9_Função.pdf",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/matriz.pdf",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20250730214339.png",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/INSERT.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/DELETE.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/atividade-nota.sql",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/UPDATE.md",
     "Versel/App Router/Fontes.md",
     "fac.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/celio05.cpp",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/run",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/functions/celio04.cpp",
     "TipsCode/useState vs useRef.md",
     "Versel/React Foundations/Estados.md",
     "Versel/React Foundations/Props.md",
@@ -197,22 +208,12 @@
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250804201053.png",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250804200504.png",
     "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Operadores.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250715132928.png",
     "Versel/App Router/CLSX.md",
     "Versel/App Router/Image.md",
     "Versel/App Router/Layout.md",
     "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Arrendondar Números.md",
     "Analise Desenvolvimento de Sistemas/Ingles/Pesquisa Uso de Sistemas na Medicina.md",
     "Sem título.canvas",
-    "2025-07-31.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Diagonais.md",
-    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250731072338.png",
-    "Versel/App Router/Exemplo de busca no banco de dados..md",
-    "Analise Desenvolvimento de Sistemas/Matematica/Operações com Conjuntos.md",
-    "Analise Desenvolvimento de Sistemas/Matematica/Igualdade dos conjuntos.md",
-    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250730210811.png",
-    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250730210251.png",
-    "Versel/PNG/Pasted image 20250730072006.png",
     "Versel/Sem título.canvas"
   ]
 }
