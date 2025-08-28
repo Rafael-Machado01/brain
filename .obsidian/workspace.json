@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a1fa033eee9e637",
+        "id": "9934bc2b88d66052",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f923cb25db138d",
+            "id": "70a801204aa1ac4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "TipsCode/JavaScript/images/Pasted image 20250826043320.png"
+                "file": "Analise Desenvolvimento de Sistemas/Matematica/Diagrama de Saginal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250826043320"
+              "icon": "lucide-file",
+              "title": "Diagrama de Saginal"
             }
           }
         ]
@@ -165,14 +167,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "17d9f152f14ed074",
+  "active": "70a801204aa1ac4d",
   "lastOpenFiles": [
-    "TipsCode/JavaScript/images",
-    "TipsCode/JavaScript/Função Filter.md",
-    "TipsCode/JavaScript/images/Pasted image 20250826050746.png",
+    "TipsCode/JavaScript/This.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Diagrama de Saginal.md",
+    "Pasted image 20250827205405.png",
+    "Analise Desenvolvimento de Sistemas/Matematica/Conjuntos.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Matriz Booleana.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Igualdade dos conjuntos.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Motivação.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Operações com Conjuntos.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Plano Cartesiano.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Struct.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Exercio exemplo struct.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/struct/exemplo.md",
+    "TipsCode/JavaScript/Exercício GPT map.md",
     "TipsCode/JavaScript/Exercicio map.md",
     "TipsCode/JavaScript/Função Map.md",
     "TipsCode/JavaScript/images/Pasted image 20250826043320.png",
+    "TipsCode/JavaScript/images",
+    "TipsCode/JavaScript/Função Filter.md",
+    "TipsCode/JavaScript/images/Pasted image 20250826050746.png",
     "TipsCode/JavaScript/Codes/index.html",
     "TipsCode/JavaScript/Codes",
     "TipsCode/JavaScript/Exercício Final JavaScript.md",
@@ -188,7 +203,6 @@
     "Pasted image 20250814222729.png",
     "Sem título.base",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/11_Funcao.pdf",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Exercícios Funções.pdf",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20250730214339.png",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/INSERT.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/DELETE.md",
@@ -199,20 +213,8 @@
     "Versel/React Foundations/Estados.md",
     "Versel/React Foundations/Props.md",
     "Versel/React Foundations/Components.md",
-    "TipsCode/shop-app/api/node_modules/iconv-lite/Changelog.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Teste de mesas/01 - nove.md",
-    "Analise Desenvolvimento de Sistemas/Computação/HTML.md",
-    "Analise Desenvolvimento de Sistemas/Sem título.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/SQL DML.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250804210222.png",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250804201053.png",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/Pasted image 20250804200504.png",
-    "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Operadores.md",
-    "Versel/App Router/CLSX.md",
-    "Versel/App Router/Image.md",
-    "Versel/App Router/Layout.md",
-    "Analise Desenvolvimento de Sistemas/Estatística/Aulas/Arrendondar Números.md",
-    "Analise Desenvolvimento de Sistemas/Ingles/Pesquisa Uso de Sistemas na Medicina.md",
     "Sem título.canvas",
     "Versel/Sem título.canvas"
   ]
