@@ -10,11 +10,9 @@ struct dados {
 dados v[t];
 
 void read();
-void result();
 
 int main() {
    read();
-   result();
 }
 
 void read() {
@@ -22,11 +20,6 @@ void read() {
       cout << "Digite o custo do produto " << i+1 << endl;
       cin >> v[i].cost;
       v[i].sell = v[i].cost * 1.50;
-   }
-}
-
-void result() {
-   for(int i=0;i<t;i++) {
-      cout << "Produto " << i+1 << " Valor de venda é " << v[i].sell << endl;
+       cout << "Produto " << i+1 << " Valor de venda é " << v[i].sell << endl;
    }
 }
