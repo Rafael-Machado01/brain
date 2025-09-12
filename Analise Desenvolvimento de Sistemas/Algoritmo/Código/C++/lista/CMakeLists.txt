@@ -4,5 +4,5 @@ project(lista)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(lista
-        lista1um.cpp
-        lista2tres.cpp)
+        lista2tres.cpp
+        menu-school.cpp)
