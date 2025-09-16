@@ -1,0 +1,49 @@
+// 01- Atualize o valor dos procedimentos em 11,35%
+UPDATE AV_PROCEDIMENTO 
+SET VALOR = VALOR *1.135;
+
+// 02 - Consultar o nome do proprietario + nome do animal + data de nascimento + raça
+SELECT P.NOME, A.NOME, A.NASCIMENTO, R.DESCRICAO
+FROM AV_ANIMAL A
+INNER JOIN AV_PROPRIETARIO P ON (A.IDTB_PROPRIETARIO=P.IDTB_PROPRIETARIO)
+INNER JOIN AV_RACA R ON (A.IDTB_RACA=R.IDTB_RACA);
+
+// 03 - Consultar o nome do proprietario + quantidade de animais que possui (ordem crescente)
+SELECT P.NOME, COUNT(A.IDTB_ANIMAL) AS QUANTIDADE_DE_ANIMAIS
+FROM AV_PROPRIETARIO P
+INNER JOIN AV_ANIMAL A ON(P.IDTB_PROPRIETARIO=A.IDTB_PROPRIETARIO)
+GROUP BY P.NOME
+ORDER BY QUANTIDADE_DE_ANIMAIS ASC;
+
+// 04 - Consultar o nome do animal + id da ficha + data de atendimento + problema  ORDENE por nome do animal e data do atendimento
+SELECT A.NOME, F.IDTB_FICHA, F.DATA_ATENDIMENTO, F.PROBLEMA
+FROM AV_FICHA_ATEND F
+INNER JOIN AV_ANIMAL A ON(F.IDTB_ANIMAL=A.IDTB_ANIMAL);
+
+
+// 05 - Agrupe mostre descricao do procedimento + quantidade de procedimentos feitas no mes 09(setembro) > 1 + Ordernar por menos procedimentos feitos
+SELECT P.DESCRICAO, COUNT(F.IDTB_PROCEDIMENTO) AS CONT
+FROM AV_PROCEDIMENTO P
+INNER JOIN AV_FICHA_PROCEDIMENTO F ON(F.IDTB_PROCEDIMENTO=P.IDTB_PROCEDIMENTO)
+WHERE TO_CHAR(F.DATA_PROCEDIMENTO,'MM') = '09'
+GROUP BY P.DESCRICAO
+ORDER BY CONT DESC;
+
+//  06 - Nome do animal + desc + valor do procedimento + data + quantidade de procedimentos realizados e quantidade multiplicada por valor 
+// entre dias 01/09/25 05/09/25 ordene nome + data procedimento
+
+SELECT F.NOME, P.DESCRICAO,P.VALOR, P.DATA,
+COUNT(P.IDTB_PROCEDIMENTO) AS CONT,
+CONT * P.VALOR
+FROM AV_FICHA_ATEND F
+INNER JOIN AV_FICHA_PROCEDIMENTO P ON(P.IDTB_PROCEDIMENTO=F.IDTB_PROCEDIMENTO)
+WHERE P.DATA BETWEEN '2025-09-01' AND '2025-09-05'
+GROUP BY F.NOME, 
+    P.DESCRICAO, 
+    P.VALOR, 
+    P.DATA
+ORDER BY P.DATA
+
+
+
+
