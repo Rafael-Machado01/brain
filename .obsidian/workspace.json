@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/BobbleShort.md",
+                "file": "Vercel/React Foundations/Estados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BobbleShort"
+              "title": "Estados"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "useState",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,8 +185,19 @@
   },
   "active": "41989e3f0e787d2c",
   "lastOpenFiles": [
-    "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Desafio dos baldes.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/BobbleShort.md",
+    "Vercel/App Router/Component.md",
+    "TipsCode/React/useState.md",
+    "TipsCode/React/Spread.md",
+    "TipsCode/React/Props.md",
+    "TipsCode/React/Manipulação de eventos.md",
+    "TipsCode/React/Gerenciado arvore de component parte 3.md",
+    "TipsCode/React/Destruction.md",
+    "TipsCode/React/Condição Ternário e And.md",
+    "TipsCode/React/Classes vs Hooks.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/2025-recap/begoco/Gerenciado arvore de component parte 3.md",
+    "TipsCode/React",
+    "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Desafio dos baldes.md",
     "Untitled.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20260131152617.png",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/struct/exemplo.md",
@@ -208,22 +220,11 @@
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/UPDATE.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/DELETE.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/INSERT.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Modelagem.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Relacionamentos.md",
-    "TipsCode/JavaScript/Arrow Function.md",
     "TipsCode/Phyton/codes",
-    "TipsCode/Phyton/Sem título.md",
     "TipsCode/Phyton/Sem título.canvas",
     "TipsCode/Phyton",
-    "Versel/React Foundations/Spread.md",
-    "Versel/React Foundations/props-xp.md",
-    "Versel/React Foundations/Props.md",
     "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250827205405.png",
-    "Analise Desenvolvimento de Sistemas/Matematica/Diagrama de Saginal.md",
-    "TipsCode/JavaScript/This.md",
-    "Analise Desenvolvimento de Sistemas/Matematica/Conjuntos.md",
     "TipsCode/JavaScript/images/Pasted image 20250826043320.png",
-    "TipsCode/JavaScript/images",
     "TipsCode/JavaScript/images/Pasted image 20250826050746.png",
     "Analise Desenvolvimento de Sistemas/Computação/Materiais/Pasted image 20250819201518.png",
     "Analise Desenvolvimento de Sistemas/Computação/Materiais/Pasted image 20250819202419.png",
