@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2406a4fd8caa224e",
+        "id": "a7010e7f8ec4900c",
         "type": "tabs",
         "children": [
           {
-            "id": "9030d30b3f6cf4bc",
+            "id": "f3994104974aba16",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Analise Desenvolvimento de Sistemas/Linguagem/poo/POO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "POO"
             }
           }
         ]
@@ -165,8 +167,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9030d30b3f6cf4bc",
+  "active": "f3994104974aba16",
   "lastOpenFiles": [
+    "Analise Desenvolvimento de Sistemas/Linguagem/poo/This.md",
+    "Analise Desenvolvimento de Sistemas/Linguagem/poo/Emcapsulamento.md",
+    "Analise Desenvolvimento de Sistemas/Linguagem/poo/POO.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/BobbleShort.md",
     "Vercel/App Router/Component.md",
     "TipsCode/React/useState.md",
@@ -199,9 +204,6 @@
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Materiais/sql.txt",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/a.md",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/SELECT.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/UPDATE.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/DELETE.md",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/INSERT.md",
     "TipsCode/Phyton/codes",
     "TipsCode/Phyton/Sem título.canvas",
     "TipsCode/Phyton",
