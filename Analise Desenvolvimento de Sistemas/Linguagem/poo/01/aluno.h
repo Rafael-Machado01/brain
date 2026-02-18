@@ -16,7 +16,7 @@ class Aluno {
   string getNome() {return this->nome;}
   string getCurso() {return this->curso;}
   float getNota1() {return this->nota1;}
-  float getNota2() {retu:n this->nota2;}
+  float getNota2() {return this->nota2;}
 
   // Setters
   void setRa(int ra) {this->ra = ra;}
