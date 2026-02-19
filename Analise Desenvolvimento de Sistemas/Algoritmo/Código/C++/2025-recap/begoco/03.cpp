@@ -6,6 +6,43 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-  
+int menor(int v[], int tam) {
+  int x=v[0];
+  for(int i=0; i < tam; i++) {
+    if(v[i] < x) {
+      x = v[i];
+    }
+  }
+  return x;
 }
+
+int maior(int v[],int tam) {
+  int x=v[0];
+  for(int i=0; i < tam; i++) {
+    if(v[i] > x) {
+      x = v[i];
+    }
+  }
+  return x;
+}
+
+int main() {
+  int v[10],sum=0,cont=0;;
+ for(int i=0;i < 10; i++) {
+  cout << "Digite um número. Posição: " << "[" << i+1 << "]" << endl;
+  cin >> v[i];
+     cont++;
+  sum += v[i];
+  if(v[i] != 0 && v[i] == v[i-1] + 1) {
+    cout << "Números consecutivos digitados!" << endl;
+    break;
+  }
+ }
+ int resultMen = menor(v,cont);
+ int resultMai = maior(v,cont);
+ 
+ cout << "O menor entre os números é " << resultMen << endl;
+ cout << "O maior entre os números é " << resultMai << endl;
+ cout << "A média entre os números é " << sum / 10 << endl;
+}
+
