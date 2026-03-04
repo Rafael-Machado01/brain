@@ -42,6 +42,7 @@ Categoria::Categoria(int id, string desc) {
 }
 
 void Categoria::imprimir() {
+    cout << "Sistema AgroTech - Categoria" << endl;
   cout << "ID: " << getId() << endl;
   cout << "Descrição: " << getDesc() << endl 
 }
