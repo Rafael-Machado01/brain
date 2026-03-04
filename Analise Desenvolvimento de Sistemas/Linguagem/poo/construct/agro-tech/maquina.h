@@ -91,6 +91,7 @@ Maquina::Maquina(int id,string modelo,int categoria,string marca,float potencia,
 }
 
 void Maquina::imprimir() {
+  cout << "Sistema AgroTech - Máquina" << endl;
   cout << "ID: " << getId() << endl;
   cout << "Modelo: " << getModelo() << endl;
   cout << "Categoria: " << getCategoria() << endl;
