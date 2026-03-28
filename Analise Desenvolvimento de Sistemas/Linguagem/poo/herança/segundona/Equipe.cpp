@@ -3,6 +3,7 @@ using namespace std;
 
 #include "./Cargo.h"
 #include "Funcionario.h"
+#include "Funcoes.h"
 
 int main()
 {
@@ -20,9 +21,8 @@ int main()
   f2.imprimir();
   f2.aumento();
   f2.imprimir();
-  int x;
-  cout << "Qual o percentual de aumento ?" << endl;
-  cin >> x;
+  int x = 50;
   f2.aumento(x);
   f2.imprimir();
+  lerFuncionario(f2);
 }

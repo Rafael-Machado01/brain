@@ -6,6 +6,7 @@ using namespace std;
 #include "./Imovel.h"
 #include "./Profissao.h"
 #include "./Locador.h"
+#include "./Locacao.h"
 
 int main()
 {
@@ -19,4 +20,7 @@ int main()
     Profissao pro(1, "Bombeiro");
     Locador loc(1, "Rafael", pro, "Assis", "São Paulo", 18, 10000);
     loc.imprimir();
+
+    Locacao loca(1, "24-03-2025", 500000, imo1, loc);
+    loca.imprimir();
 }
