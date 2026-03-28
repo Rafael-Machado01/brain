@@ -58,4 +58,30 @@ public:
     cout << "Cargo: " << Cargo::id << " - " << Cargo::cargo << endl;
     cout << "Salário:" << this->salario << endl;
   }
+  void ler()
+  {
+    int sId, sCargo;
+    string sNome, sNCargo;
+    float sSalario;
+    cout << "Ler - Funcionário" << endl;
+    cout << "Digite o ID:" << endl;
+    cin >> sId;
+    setId(sId);
+
+    cout << "Digite o Nome " << endl;
+    cin.ignore();
+    getline(cin, sNome);
+    setNome(sNome);
+
+    cout << "Digite o id cargo:" << endl;
+    cin >> sCargo;
+    Cargo::setId(sCargo);
+
+    cout << "Digite o Nome do cargo" << endl;
+    cin >> sNCargo;
+    Cargo::setCargo(sNCargo);
+
+    cout << "Digite o Salário" << endl;
+    cin >> sSalario;
+  }
 };
