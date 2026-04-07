@@ -37,10 +37,18 @@ void ler(Livro v[])
 
 void emprest(Livro v[], int x)
 {
-  if (v[x].copias >= 1)
+  int index = 0;
+  for (int i = 0; i < T; i++)
+  {
+    if (v[i].codigo == x)
+    {
+      index = i;
+    }
+  }
+  if (v[index].copias >= 1)
   {
     cout << "Emprestado!" << endl;
-    v[x].copias = v[x].copias - 1;
+    v[index].copias = v[index].copias - 1;
   }
   else
   {
@@ -52,11 +60,11 @@ void quests(Livro v[], int *total, int *idmenor)
 {
   *total = 0;
   *idmenor = 0;
-  int mais = v[0].copias;
+  int men = v[0].copias;
   for (int i = 0; i < T; i++)
   {
     *total += v[i].copias;
-    if (v[i].copias > mais)
+    if (v[i].copias < men)
     {
       *idmenor = i;
     }
@@ -70,7 +78,7 @@ int main()
   cout << "Digite o código do Livro: " << endl;
   cin >> x;
   emprest(v, x);
-  quests(v, &idmenor, &total);
-  cout << "O livro com menor números de cópias é " << v[idmenor].titulo << "Com " << v[idmenor].copias << " copias " << endl;
+  quests(v, &total, &idmenor);
+  cout << "O livro com menor números de cópias é " << v[idmenor].titulo << " Com " << v[idmenor].copias << " copias " << endl;
   cout << "O total de cópias disponíveis é " << total;
 }
