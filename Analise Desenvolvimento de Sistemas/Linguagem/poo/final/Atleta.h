@@ -77,3 +77,23 @@ void Atleta::imprimir()
   cout << "ID Pais:" << Pais::getId() << endl;
   cout << "Descrição Pais:" << Pais::getDescricao() << endl;
 }
+
+void Atleta::ler()
+{
+  int sI;
+  string sS;
+  float sF;
+  cout << "Ler - Atleta - Competição" << endl;
+  cout << "Digite o ID:" << endl;
+  cin >> sI;
+  cout << "Digite o Nome: " << endl;
+  cin.ignore();
+  getline(cin, sS);
+  setNome(sS);
+  cout << "Digite a Idade:" << endl;
+  cin >> sI;
+  setIdade(sI);
+  cout << "Digite o Peso: " << endl;
+  cin >> sF;
+  setPeso(sF);
+}
