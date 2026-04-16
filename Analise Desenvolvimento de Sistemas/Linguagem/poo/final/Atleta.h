@@ -1,4 +1,4 @@
-class Atleta : public : Pais
+class Atleta : public Pais
 {
 private:
   int id;
@@ -65,6 +65,9 @@ public:
 
   void imprimir();
   void ler();
+  void a5() { this->peso = peso * 1.05; };
+  void sump(float peso) { this->peso += peso; };
+  void per(float per) { this->peso = peso * per; };
 };
 
 void Atleta::imprimir()
