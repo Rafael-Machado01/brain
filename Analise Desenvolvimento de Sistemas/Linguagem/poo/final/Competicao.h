@@ -12,10 +12,10 @@ public:
   Competicao(int id, string descricao, string local, string dataInicio, string dataFim) : id(0), descricao(descricao), local(local), dataInicio(dataInicio), dataFim(dataFim) {};
 
   int getId() { return this->id; }
-  void getDescricao() { return this->descricao; }
-  void getLocal() { return this->local; }
-  void getDataInicio() { return this->dataIncio; }
-  void getDataFim() { return this->dataFim; }
+  string getDescricao() { return this->descricao; }
+  string getLocal() { return this->local; }
+  string getDataInicio() { return this->dataInicio; }
+  string getDataFim() { return this->dataFim; }
 
   void setId(int id)
   {
@@ -65,7 +65,7 @@ public:
     }
   }
 
-  void setDataInicio(string dataFim)
+  void setDataFim(string dataFim)
   {
     if (dataFim == "")
     {
