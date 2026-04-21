@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a7010e7f8ec4900c",
+        "id": "8b4b1bbe6b56197c",
         "type": "tabs",
         "children": [
           {
-            "id": "f3994104974aba16",
+            "id": "531b6ab048dabf3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Diagonais.md",
+                "file": "TipsCode/mongo-db/CRUD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagonais"
-            }
-          },
-          {
-            "id": "dae9f63a274075ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Gestão de Projetos/Revisão.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Revisão"
+              "title": "CRUD"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +167,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "dae9f63a274075ce",
+  "active": "531b6ab048dabf3f",
   "lastOpenFiles": [
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Create com fields.md",
     "Analise Desenvolvimento de Sistemas/Gestão de Projetos/Revisão.md",
+    "TipsCode/mongo-db/CRUD.md",
+    "TipsCode/Sem título",
+    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Create com fields.md",
     "Analise Desenvolvimento de Sistemas/Gestão de Projetos",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/BobbleShort.md",
     "Analise Desenvolvimento de Sistemas/Linguagem/poo/Construtor.md",
@@ -218,10 +205,8 @@
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/struct/exemplo.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/2025-recap/fila.cpp",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/2025-recap/one.cpp",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/2025-recap",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/2-semestre/response2.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/2-semestre/response.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/Lista.md",
     "TipsCode/Phyton/Sem título.canvas",
     "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250827205405.png",
     "TipsCode/JavaScript/images/Pasted image 20250826043320.png",
