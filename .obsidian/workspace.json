@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TipsCode/mongo-db/CRUD.md",
+                "file": "readme/node_modules/next/dist/docs/01-app/01-getting-started/04-linking-and-navigating.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRUD"
+              "title": "04-linking-and-navigating"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "useState",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,8 +170,8 @@
   },
   "active": "531b6ab048dabf3f",
   "lastOpenFiles": [
-    "Analise Desenvolvimento de Sistemas/Gestão de Projetos/Revisão.md",
     "TipsCode/mongo-db/CRUD.md",
+    "Analise Desenvolvimento de Sistemas/Gestão de Projetos/Revisão.md",
     "TipsCode/Sem título",
     "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Create com fields.md",
     "Analise Desenvolvimento de Sistemas/Gestão de Projetos",

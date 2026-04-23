@@ -1,18 +1,32 @@
 'use client'
 import Markdown from "react-markdown";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 export default function Editor() {
  const [content,setContent] = useState(``);
-
-  if(localStorage.getItem('saved') != null) {
-    localStorage.getItem('saved');
-    setContent(saved);
+ 
+ useEffect( () => {
+  const saved = localStorage.getItem('save');
+  if(saved) {
+    const parsed = JSON.parse(saved);
+    
+    const now = Date.now();
+    const expire = (24 * 60 * 60 * 1000);
+    console.log(parsed);
+    console.log(now);
+    console.log(expire);
+    if(now - parsed.saveAt < expire) {
+      setContent(parsed.content);
+    }else {
+      localStorage.removeItem('save')
+    }
   }
+ },[]);
+ 
  function handleChange(event: React.ChangeEvent<HTMLTextAreaElement>) {
   setContent(event.currentTarget.value);
  }
  function handleClick() {
-  localStorage.setItem('saved',content);
+  localStorage.setItem('save',JSON.stringify({content:content,saveAt: Date.now()}));
  }
 
 
@@ -21,7 +35,7 @@ export default function Editor() {
     
 
     <h1>Voce está editando</h1>
-    <textarea onChange={handleChange}></textarea>
+    <textarea value={content} onChange={handleChange}></textarea>
     <Markdown>{content}</Markdown>
     <button onClick={handleClick}>salvar</button>
     </>
