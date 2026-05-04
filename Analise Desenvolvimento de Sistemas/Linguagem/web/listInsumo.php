@@ -1,9 +1,13 @@
 <?php
   include_once "conexao.php";
+
   $sql = "SELECT * FROM tipoinsumo;";
   $con = Conexao::conectar();
-  $registros = con->query($sql);
-  $con = Conexao::desconetar();
+
+  $registro = $con->query($sql);
+  $dados = $registro->fetchAll(PDO::FETCH_ASSOC);
+
+  Conexao::desconectar();
 ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -14,19 +18,21 @@
 </head>
 <body>
   <h1>Listar tipos de Insumos</h1>
-  <table>
+
+  <table border="1">
     <tr>
       <td>ID</td>
       <td>Descrição</td>
-      <?php foreach($registro as $linha) {?>
+    </tr>
+
+    <?php foreach($dados as $linha) { ?>
       <tr> 
-        <td></td>
-        <td></td>
-    </tr>
-      <?php } ?>
-     
-      
-    </tr>
+        <td><?php echo $linha['id']; ?></td>
+        <td><?php echo $linha['descricao']; ?></td>
+      </tr>
+    <?php } ?>
+
   </table>
+
 </body>
 </html>
