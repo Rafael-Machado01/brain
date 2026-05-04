@@ -8,7 +8,8 @@
 
 # Funcionalidades:
 
-- Preview (Input e resultado ao lado)
+- Preview (Input e resultado ao lado) - Autosave: Só roda após o usuário salvar alguma vez.
+- No preview criar botão de download que gera um arquivo.md
 - Tutorial (# é para titulo como importar link e imagens)
 - Baixar direto ou Exportar para o github.
 - Login social com github (Para ter acesso a banco de dados.) CRUD.
