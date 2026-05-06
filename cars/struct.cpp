@@ -29,6 +29,7 @@ int main() {
     cin >> c[0].endereco;
     cout << "Digite o telefone do cliente: " << endl;
     cin >> c[0].telefone;
+
     c[0].cidade_id = &v[0];
     // Então na função de cadastrar cliente passamos o valor do id x para o endereço &v[x];
 }
