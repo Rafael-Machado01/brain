@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "851032f77be3e216",
         "type": "tabs",
         "children": [
           {
             "id": "c40c0d07d59a908d",
+=======
+        "id": "0ab48d5c0b0e8c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee4ff490294dc28d",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Entrevista.md",
+=======
+                "file": "Curse/TipsCode/React/Docs/Props.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Entrevista"
+=======
+              "title": "Props"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -53,15 +69,20 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": "",
                 "matchingCase": true,
+=======
+                "query": "props",
+                "matchingCase": false,
+>>>>>>> Stashed changes
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -167,6 +188,7 @@
       "bases:Criar nova base": false
     }
   },
+<<<<<<< Updated upstream
   "active": "c40c0d07d59a908d",
   "lastOpenFiles": [
     "Analise Desenvolvimento de Sistemas/Algoritmo/Código/Projeto semestre.md",
@@ -218,5 +240,55 @@
     "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20250730214339.png",
     "Sem título.canvas",
     "Versel/Sem título.canvas"
+=======
+  "active": "ee4ff490294dc28d",
+  "lastOpenFiles": [
+    "Projects/smc-assis/src/app/components/Header.tsx~",
+    "Projects/smc-assis/src/app/constants/header-menu-links.ts~",
+    "Projects/smc-assis/src/app/constants/courses-data.ts~",
+    "Projects/smc-assis/public/teachers/valeria.jpg",
+    "Projects/smc-assis/public/teachers/nelson.jpg",
+    "Projects/smc-assis/public/teachers/rafael.jpg",
+    "Projects/smc-assis/public/teachers/flavia.jpg",
+    "Projects/smc-assis/public/teachers/mauricio.jpg",
+    "Projects/smc-assis/public/teachers/marcio.jpg",
+    "Projects/smc-assis/public/teachers/danilo.jpg",
+    "Projects/smc-assis/public/teachers/ricardo.jpg",
+    "Projects/smc-assis/public/teachers/renata.jpg",
+    "Projects/smc-assis/public/teachers/jessica.jpg",
+    "Projects/smc-assis/public/teachers",
+    "Projects/smc-assis/src/app/course/[id]/page.tsx~",
+    "Projects/smc-assis/src/app/components/Teachers.tsx~",
+    "Projects/smc-assis/src/app/components/Teachers.tsx",
+    "Projects/smc-assis/src/app/components/Teachers.jsx",
+    "Projects/smc-assis/src/app/course/[id]/page.tsx",
+    "Projects/smc-assis/src/app/course/[id]",
+    "Projects/smc-assis/src/app/course",
+    "Projects/flux/node_modules/next/dist/docs/02-pages/03-building-your-application/03-data-fetching/01-get-static-props.md",
+    "Snippts/Docs/Configurando ESLINT Pritter.md",
+    "Projects/flux/node_modules/slice-ansi/node_modules/ansi-styles/readme.md",
+    "Projects/flux/node_modules/slice-ansi/readme.md",
+    "Projects/flux/node_modules/wrap-ansi/node_modules/ansi-styles/readme.md",
+    "Projects/flux/node_modules/wrap-ansi/readme.md",
+    "Projects/flux/node_modules/lint-staged/node_modules/picomatch/README.md",
+    "Projects/flux/node_modules/lint-staged/README.md",
+    "Projects/flux/node_modules/lint-staged/MIGRATION.md",
+    "Projects/flux/node_modules/log-update/node_modules/wrap-ansi/readme.md",
+    "Projects/flux/node_modules/log-update/node_modules/string-width/readme.md",
+    "Projects/flux/node_modules/log-update/node_modules/emoji-regex/README.md",
+    "Projects/flux/node_modules/log-update/node_modules/slice-ansi/readme.md",
+    "Projects/flux/node_modules/log-update/node_modules/ansi-styles/readme.md",
+    "Projects/flux/node_modules/log-update/readme.md",
+    "Projects/flux/node_modules/husky/README.md",
+    "Projects/flux/node_modules/ansi-regex/readme.md",
+    "Projects/flux/node_modules/get-east-asian-width/readme.md",
+    "Projects/flux/node_modules/is-fullwidth-code-point/readme.md",
+    "Projects/flux/node_modules/mimic-function/readme.md",
+    "Projects/flux/node_modules/signal-exit/README.md",
+    "Projects/flux/node_modules/onetime/readme.md",
+    "Projects/flux/node_modules/restore-cursor/readme.md",
+    "Projects/flux/node_modules/environment/readme.md",
+    "Projects/flux/node_modules/strip-ansi/readme.md"
+>>>>>>> Stashed changes
   ]
 }

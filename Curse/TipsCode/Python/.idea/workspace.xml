@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8624dc70-cda7-4d9f-9fc3-fe487771c6f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/.idea/Next.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/estilos/src/app/components/Sass.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/estilos/src/app/components/Sccs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/estilos/src/app/components/Styled.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/estilos/src/app/components/Tail.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/estilos/src/app/components/exemple.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/estilos/src/app/lib/registry.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/estilos/src/app/page.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/estilos/src/app/styles.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/dashboard/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/dashboard/orders/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/dashboard/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/exemplo/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/posts/[id]/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/posts/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/produtos/[camisas]/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/produtos/categorias/[categoria]/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/produtos/categorias/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/profile/page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/app/sobre/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/components/Nav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Next/introducao/src/components/Redirect.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udemy/React/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Udemy/React/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projects/flux" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Projects/flux" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3GgyakKRDgis32DkEWIoIZif1cc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;brain&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8624dc70-cda7-4d9f-9fc3-fe487771c6f1" name="Changes" comment="" />
+      <created>1784407576212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784407576212</updated>
+      <workItem from="1784407576786" duration="29000" />
+      <workItem from="1784589900355" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
