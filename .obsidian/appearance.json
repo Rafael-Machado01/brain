@@ -1,6 +1,12 @@
 {
+<<<<<<< Updated upstream
   "accentColor": "",
   "cssTheme": "Minimal",
   "showRibbon": false,
   "showViewHeader": true
+=======
+  "enabledCssSnippets": [
+    "noctalia"
+  ]
+>>>>>>> Stashed changes
 }
