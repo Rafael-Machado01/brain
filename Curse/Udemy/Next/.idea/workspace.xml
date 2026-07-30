@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f088f5dd-72f7-4f68-be91-e243b584cfb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_fetching/app/db.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data_fetching/app/todos/create/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/appearance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
@@ -1218,7 +1217,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "brain",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "kronk.content.tree.expanded.paths": "",
@@ -1280,6 +1279,7 @@
       <workItem from="1784547400209" duration="4491000" />
       <workItem from="1784589944040" duration="39000" />
       <workItem from="1785324469004" duration="3562000" />
+      <workItem from="1785414001546" duration="612000" />
     </task>
     <servers />
   </component>
