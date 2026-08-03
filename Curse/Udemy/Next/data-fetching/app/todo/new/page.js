@@ -6,10 +6,10 @@ export default function newPage() {
             <h1>Adicione uma nova tarefa</h1>
             <form action={handleSubmit}>
                 <label htmlFor="titulo">Titulo:</label>
-                <input type="text" name="titulo" required placeholder="Digite o titulo da tarefa"/>
+                <input  type="text" name="titulo" required placeholder="Digite o titulo da tarefa"/>
                 <label htmlFor="descricao">Descrição:</label>
                 <textarea type="text" name="descricao" placeholder="Digite a descrição da tarefa"/>
-                <button type={"submit"}>Criar ToDo</button>
+                <button type={"submit"}>New</button>
             </form>
         </main>
     )
