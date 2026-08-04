@@ -2,12 +2,18 @@
 
 import {prisma} from "./prisma"
 import {redirect} from "next/navigation";
+<<<<<<< HEAD
 import {revalidatePath} from "next/cache";
+=======
+>>>>>>> 1a5d4e8b5b1f4d4a942d80a0a2ce5bfc9c08c197
 
 export async function deleteTodo(formData) {
     const id = Number(formData.get("id"))
     await prisma.todo.delete({where: {id}})
+<<<<<<< HEAD
     revalidatePath("/")
+=======
+>>>>>>> 1a5d4e8b5b1f4d4a942d80a0a2ce5bfc9c08c197
     redirect("/");
 }
 
@@ -33,6 +39,7 @@ export async function findTodoById(id) {
         },
     });
     return todo
+<<<<<<< HEAD
 }
 
 export async function updateTodo(previousState,formData) {
@@ -81,4 +88,6 @@ export default async function changeStatus(formData) {
     });
 
     redirect("/");
+=======
+>>>>>>> 1a5d4e8b5b1f4d4a942d80a0a2ce5bfc9c08c197
 }
