@@ -1,0 +1,50 @@
+Trabalho reposição de faltas - Rafael Machado Ampudia
+
+ EXERCÍCIO DE FIXAÇÃO -  Metodologia Ageis
+
+1 1. O que VUCA e BANI ajudam a perceber?
+Descrevem as características de um cenário de caos e mudanças incertas.
+VUCA Volatil e Incerto.
+BANI Frágil e Ansioso.
+Exemplo quando uma empresa precisa de adaptar a uma nova tecnologia no mercado.
+
+2 2. Para que serve o Cynefin?
+É uma ideia de separar o problema em diferentes categorias.
+Complexo,Complicado,Caótico,Claro, etc.
+
+
+3 3. Por que entender o ambiente muda a gestão de um projeto?
+Revela riscos,ajuda na gestão de recursos e garante a equipe no caminho certo.
+
+4 4. Em contexto claro, uma resposta adaptativa é sempre a melhor escolha?
+Pois a resposta adaptativa é mais flexível e pode se ajustar a mudanças no ambiente.
+
+5 5. Quando uma resposta preditiva tende a sofrer?
+Quando o ambiente tem mudanças incertas.
+
+
+EXERCÍCIO DE FIXAÇÃO - SCRUM
+1. Porque a transparência é importante?
+Para que todos envolvidos no projeto saibem oque está sendo desenvolvido e quais decisões estão sendo tomadas.
+
+2. Em quais momentos é possível inspecionar e adaptar no Scrum?
+Em Reuniões diárias, o Sprint Review e a Sprint Retrospective.
+
+3. Quais são os valores do Scrum?
+Compromisso, Foco, Abertura, Respeito, Coragem
+
+4. Quais as características de um Scrum Team?
+Podem ter 10 ou menos membros, cada time é responsável por uma sprint, são autogerenciáveis.
+
+5. O Scrum Guide descreve como 10 um tamanho máximo de uma equipe, porque?
+Times menores se comunicam melhor e são mais eficientes.
+
+6. No Scrum, quem é o chefe?
+o Scrum Master.
+
+7. Quem é responsável por definir e priorizar as entregas de valor de um Produto?
+o Product Owner.
+
+8. Do ponto de vista da organização, quais as responsabilidades de um Scrum Master?
+São liders, devem estabelecer e manter o scrum conforme o guia, garantir a transparência e a colaboração entre os membros do time. Ajudar o Scrum Team Entender a necessidade de itens do Product
+Backlog claros e concisos.

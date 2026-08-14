@@ -3,6 +3,11 @@
 import { prisma } from "@/app/lib/prisma";
 import { User } from "@prisma/client";
 import { signIn, signOut } from "auth";
+
+type FormState = {
+  message: string;
+  type: "success" | "error";
+};
 import path from "path";
 
 export async function getUserByEmail(
@@ -26,4 +31,11 @@ export async function signInWithProvider(
 
 export async function logout() {
   await signOut();
+}
+
+export async function updateUserProfile(
+  formState: FormState,
+  formData: FormData,
+): Promise<FormState> {
+  return { message: "Perfil Atualizado com sucesso.", type: "success" };
 }
