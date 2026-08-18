@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "56edcf264483c402",
+    "id": "37531cc9497af512",
     "type": "split",
     "children": [
       {
-        "id": "ee4ff490294dc28d",
+        "id": "ca14b6deb3ac7272",
         "type": "tabs",
         "children": [
           {
-            "id": "ee4ff490294dc28d",
+            "id": "59629a46adbebe09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Analise Desenvolvimento de Sistemas/Matematica/SubConjuntos e Partes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "SubConjuntos e Partes"
             }
           }
         ]
@@ -27,28 +27,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c0f9aa580f9e18a7",
+    "id": "078cc784a880dd7b",
     "type": "split",
     "children": [
       {
-        "id": "1dc432139e719f91",
+        "id": "729c9bef947f5d74",
         "type": "tabs",
         "children": [
           {
-            "id": "17d9f152f14ed074",
+            "id": "5f7847fc9fabdc98",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
-            "id": "e2342da1e5232061",
+            "id": "cfefd49e5ac4ea33",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,35 +67,39 @@
             }
           },
           {
-            "id": "5a6b4a6d71d5060f",
+            "id": "c21ee7122d03596e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "53b22d944ce786f7",
+    "id": "5220e8c709b53c87",
     "type": "split",
     "children": [
       {
-        "id": "7a0db6f920504527",
+        "id": "8258d866d3181295",
         "type": "tabs",
         "children": [
           {
-            "id": "386562c727492f64",
+            "id": "8048fa56745641b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analise Desenvolvimento de Sistemas/Matematica/SubConjuntos e Partes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +113,7 @@
             }
           },
           {
-            "id": "b7f06ea279dd574a",
+            "id": "ae50e3863dcf5258",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,11 +122,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0e7e998e359db094",
+            "id": "5bf5d701b1756949",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,18 +141,31 @@
             }
           },
           {
-            "id": "0c940b878113b631",
+            "id": "8fe7c59308a9dab4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b56cbe35c3e9a5ab",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline"
             }
           }
         ]
@@ -158,22 +177,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "ee4ff490294dc28d",
+  "active": "59629a46adbebe09",
   "lastOpenFiles": [
+    "Analise Desenvolvimento de Sistemas/Matematica/Motivação.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Operações com Conjuntos.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/SubConjuntos e Partes.md",
+    "README.md",
     "_index.md",
-    "Livros/_index.md",
-    "Templates/livro.md",
-    "Templates/aula.md",
-    "Templates/daily.md",
-    "Templates/projeto.md"
+    "Livros/_index.md"
   ]
 }

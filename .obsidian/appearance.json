@@ -1,5 +1,9 @@
 {
-  "enabledCssSnippets": [
-    "noctalia"
-  ]
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": ""
 }

@@ -1,6 +1,20 @@
 {
-  "alwaysUpdateLinks": true,
-  "showLineNumber": false,
+  "interfaceFontSize": 14,
+  "cssStyle": "obsidian",
+  "showLineNumber": true,
+  "strictLineBreaks": false,
   "readableLineLength": true,
-  "showInlineTitle": false
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "attachmentFolderPath": "",
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "showFrontmatterTitle": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "trashOption": "local"
 }

@@ -1,0 +1,13 @@
+node_modules/
+.smart-env/
+.next/
+.cache/
+.venv/
+__pycache__/
+.idea/
+bin/
+obj/
+*.tsbuildinfo
+.env*
+*.dll
+*.pdb
