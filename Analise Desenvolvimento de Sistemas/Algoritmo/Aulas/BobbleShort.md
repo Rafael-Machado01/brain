@@ -1,4 +1,10 @@
-# Um Bobble Short é um algoritimo para organizar uma vetor, lista por uma condição.
+---
+tags: [aula, algoritmo, ordenacao, codigo]
+disciplina: "Algoritmo"
+tipo: aula
+---
+
+# Um Bobble Short é um algoritmo para organizar uma vetor, lista por uma condição.
 
 _Neste código usamos para organizar um vetor por ordem decrescente._
 

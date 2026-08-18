@@ -1,3 +1,11 @@
+---
+tags: [aula, banco-de-dados, sql]
+disciplina: "Banco de Dados"
+tipo: aula
+---
+
+# UPDATE
+
 Comando [[SQL DML]] para fazer atualizações nas linhas.
 
 ````

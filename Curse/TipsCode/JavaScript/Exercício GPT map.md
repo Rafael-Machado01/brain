@@ -1,4 +1,12 @@
-```
+---
+tags: [exercicio, javascript, tipscode, array]
+tipo: exercicio
+fonte: "TipsCode"
+---
+
+# Exercício GPT Map
+
+```js
 const produtos = [
   { nome: "Camiseta", preco: 50 },
   { nome: "Calça", preco: 120 },

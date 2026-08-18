@@ -1,4 +1,12 @@
-```
+---
+tags: [curso, react, tipscode, javascript]
+tipo: curso
+fonte: "TipsCode"
+---
+
+# Spread Operator
+
+```js
 const frutaCitricas = ['Abacaxi', 'Laranja', 'Limão'];
 
 const frutas = ['Banana', 'Pera', 'Mamão']

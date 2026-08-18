@@ -1,3 +1,9 @@
+---
+tags: [aula, algoritmo, codigo]
+disciplina: "Algoritmo"
+tipo: aula
+---
+
 # Inteiro - Int
 Número que não tenha virgula ou seja inteiro.
 ```
@@ -48,7 +54,7 @@ Cálculos com matriz, geralmente usam Diagonais.
 Este não é bem uma variável é um atributo que podemos colocar antes de declarar a variável.
 
 ```
-usingned int x = 2 // x não pode ser negativo.
+unsigned int x = 2 // x não pode ser negativo.
 ````
 
 # Double

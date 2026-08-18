@@ -1,3 +1,11 @@
+---
+tags: [aula, matematica, conjuntos]
+disciplina: "Matematica"
+tipo: aula
+---
+
+# Plano Cartesiano
+
 * Sejam A e B conjuntos não vazios.
 1. Ache o número de elementos dos conjuntos
 2. Multiplique N(AxB)

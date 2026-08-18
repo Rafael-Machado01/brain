@@ -1,3 +1,11 @@
+---
+tags: [curso, react, vercel, dom]
+tipo: curso
+fonte: "Vercel"
+---
+
+# DOM — Document Object Model
+
 Quando um usuário visita uma pagina, o servidor retorna o arquivo HTML para o navegador.
 ![[Pasted image 20250720182044.png]]
 O navegador então lê o HTML e constrói o Document Object Model (DOM).

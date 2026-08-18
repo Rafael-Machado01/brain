@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel]
+tipo: curso
+fonte: "Vercel"
+---
+
+# NextJS
+
 É um framework [[React]], que oferece blocos de construção para criar aplicativos da Web.
 
 ![[Pasted image 20250720181854.png]]

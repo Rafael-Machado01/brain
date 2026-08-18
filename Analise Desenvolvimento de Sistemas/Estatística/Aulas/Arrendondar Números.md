@@ -1,3 +1,11 @@
+---
+tags: [aula, estatistica]
+disciplina: "Estatistica"
+tipo: aula
+---
+
+# Arredondar Números
+
 Quando o primeiro algarismo a ser abandonado é 0 1 2 3 4 fica inalterado o ultimo algarismo permanecer.
 # Décimos 
 ```

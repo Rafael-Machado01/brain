@@ -1,3 +1,11 @@
+---
+tags: [curso, react, tipscode, componentes]
+tipo: curso
+fonte: "TipsCode"
+---
+
+# Gerenciando Árvore de Componentes - Parte 3
+
 Exemplo de como usar uma função do componente pai para o filho 
 
 ```

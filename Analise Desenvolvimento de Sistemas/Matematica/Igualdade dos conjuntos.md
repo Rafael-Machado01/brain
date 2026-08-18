@@ -1,3 +1,11 @@
+---
+tags: [aula, matematica, conjuntos]
+disciplina: "Matematica"
+tipo: aula
+---
+
+# Igualdade de Conjuntos
+
 Dois conjuntos são iguais quando todos os seus elementos são idênticos.
 
 Se

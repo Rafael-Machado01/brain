@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, app-router]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Link — Navegação
+
 É muito mais organizado exemplo :
 
 ````

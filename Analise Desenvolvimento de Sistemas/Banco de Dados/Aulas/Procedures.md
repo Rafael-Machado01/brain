@@ -1,3 +1,11 @@
+---
+tags: [aula, banco-de-dados, plsql]
+disciplina: "Banco de Dados"
+tipo: aula
+---
+
+# Procedures, Functions, Triggers e Packages
+
 # Oque é uma procedure
 É um bloco de código, que recebe variaveis e não tem retorno. Ela pode chamar e executar funções sql.
 

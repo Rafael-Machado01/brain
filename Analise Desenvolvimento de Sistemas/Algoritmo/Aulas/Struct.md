@@ -1,4 +1,10 @@
-A função struct permite que criamos um novo tipo de variável.
+---
+tags: [aula, algoritmo, codigo, struct]
+disciplina: "Algoritmo"
+tipo: aula
+---
+
+A função struct permite que criemos um novo tipo de variável.
 ````
 struct dados {
 int n1;
@@ -9,5 +15,4 @@ dados v[t];
 Muito simples de usar
 
 [[Exercio exemplo struct]]
-
 

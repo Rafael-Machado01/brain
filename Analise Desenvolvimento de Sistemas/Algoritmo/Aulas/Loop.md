@@ -1,12 +1,18 @@
+---
+tags: [aula, algoritmo, codigo]
+disciplina: "Algoritmo"
+tipo: aula
+---
+
 Uma estrutura de repetição dá poder para nosso código pode executar quantas vezes quiser, infinitamente ou por ações de usuários.
 
 # Repita até - While
 
 ```
 Repita 
-	Intrução 1
-	Intrução 2
-	Intrução N
+	Instrução 1
+	Instrução 2
+	Instrução N
 Até (Condição)
 ````
 
@@ -24,9 +30,9 @@ ATÉ (CONT > 10);
 
 ````
 Para(variável; condição; incremento ou decremento) {
-	intrução 1
-	intrução 2
-	intrução N
+	Instrução 1
+	Instrução 2
+	Instrução N
 }
 ````
 

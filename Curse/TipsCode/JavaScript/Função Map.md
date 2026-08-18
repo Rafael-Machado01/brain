@@ -1,3 +1,11 @@
+---
+tags: [curso, javascript, tipscode, array]
+tipo: curso
+fonte: "TipsCode"
+---
+
+# Função Map
+
 Pega um conjunto e mapeia
 Por exemplo tenho o array ={1,2,3}
 Quero mapear ele para serem multiplicado por 2

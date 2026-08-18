@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, app-router, imagem]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Image — Otimização de Imagens
+
 O que é `<Image>`Componente é uma extensão do HTML `<img>`tag, e vem com otimização automática de imagem, como:
 
 - Impedir o layout muda automaticamente quando as imagens estão sendo carregadas.

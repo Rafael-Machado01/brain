@@ -1,3 +1,11 @@
+---
+tags: [curso, react, vercel, javascript]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Spread Operator
+
 ```
 const frutaCitricas = ['Abacaxi', 'Laranja', 'Limão'];
 

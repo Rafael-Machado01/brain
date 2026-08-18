@@ -1,3 +1,11 @@
+---
+tags: [aula, algoritmo]
+disciplina: "Algoritmo"
+tipo: aula
+---
+
+# Estrutura Básica
+
 ```
 algoritmo nome_do_algoritmo
 var

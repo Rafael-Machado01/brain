@@ -1,3 +1,11 @@
+---
+tags: [aula, poo, encapsulamento]
+disciplina: "Linguagem"
+tipo: aula
+---
+
+# Encapsulamento
+
 É proteger seus atributos e metodos por exemplo atributos não podem ser publicos.
 
 No main não podemos usar por exemplo

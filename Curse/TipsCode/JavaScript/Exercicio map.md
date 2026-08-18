@@ -1,3 +1,11 @@
+---
+tags: [exercicio, javascript, tipscode, array]
+tipo: exercicio
+fonte: "TipsCode"
+---
+
+# Exercício Map
+
 Retorne apenas price do JSON shop:
 [[Função Map]]
 

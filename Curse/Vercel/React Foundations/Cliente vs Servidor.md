@@ -1,3 +1,11 @@
+---
+tags: [curso, react, vercel, web]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Cliente vs Servidor
+
 ![[Pasted image 20250729073059.png]]
 
 ## Cliente se refere ao navegador do usuário e oque ele é mostrado para ele

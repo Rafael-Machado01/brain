@@ -1,6 +1,14 @@
+---
+tags: [aula, matematica, revisao]
+disciplina: "Matematica"
+tipo: aula
+---
+
+# Operações com Números Inteiros
+
 # Operações com números inteiros (Soma e subtração)
 1- Caso: Sinais iguais
-	Regras: Soma os números e conserva o sinak.
+	Regras: Soma os números e conserva o sinal.
 Exemplo
 1)+5+10+3=+18
 2)-2-3-23=-28

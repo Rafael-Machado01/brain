@@ -1,10 +1,22 @@
+---
+tags: [curso, react, tipscode, javascript]
+tipo: curso
+fonte: "TipsCode"
+---
 
-Ternário: 
+# Condição Ternário e And
 
-condição ? sefortrue : se for falso
+## Ternário
 
-étrue && éfalse // False
+```
+condição ? se for true : se for false
+```
 
-étrue && étrue // True
+## Operador And (&&)
 
-	as duas condições precisam ser iguais.
+```
+true && false  // False
+true && true   // True
+```
+
+As duas condições precisam ser verdadeiras.

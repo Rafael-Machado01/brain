@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, app-router]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Roteador
+
 Cara isso é muito legal, se criar uma pasta no app por exemplo sobre.
 E usar o http://localhost:3000/sobre
 Consigo acessar o page.tsx que está na /sobre.

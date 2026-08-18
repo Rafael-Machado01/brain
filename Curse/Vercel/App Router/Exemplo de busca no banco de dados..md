@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, app-router, banco-de-dados]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Exemplo — Busca no Banco de Dados
+
 ````
 import postgres from 'postgres';
 
@@ -42,5 +50,5 @@ return Response.json({ error }, { status: 500 });
 }
 
 }
-````
 
+````

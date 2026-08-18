@@ -1,3 +1,9 @@
+---
+tags: [aula, banco-de-dados, modelagem]
+disciplina: "Banco de Dados"
+tipo: aula
+---
+
 # 1:1 - Um pra Um
 Por exemplo um único CPF para cada pessoa.
 ```
@@ -10,7 +16,7 @@ Sexo             CNH
 Agora para ligarmos o CPF na tabela pessoa usamos
 
 ```
-FOREING KEY (pessoa_id) REFERENCES Pessoa(Id);
+FOREIGN KEY (pessoa_id) REFERENCES Pessoa(Id);
 ````
 
 Por exemplo nas aulas do Alex usamos muito Cidade recebe o id do UF que era algo único. Ou 1:1 Para uma cidade vai existir apenas uma UF.
@@ -25,6 +31,6 @@ Sexo
 ````
 
 ```
-FOREING KEY (pessoa_id) REFERENTES Cliente(ID)
+FOREIGN KEY (pessoa_id) REFERENCES Cliente(ID)
 ````
 

@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "851032f77be3e216",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c40c0d07d59a908d",
-=======
-        "id": "0ab48d5c0b0e8c0f",
+        "id": "ee4ff490294dc28d",
         "type": "tabs",
         "children": [
           {
             "id": "ee4ff490294dc28d",
->>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Entrevista.md",
-=======
-                "file": "Curse/TipsCode/React/Docs/Props.md",
->>>>>>> Stashed changes
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Entrevista"
-=======
-              "title": "Props"
->>>>>>> Stashed changes
+              "title": "Home"
             }
           }
         ]
@@ -69,13 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< Updated upstream
                 "query": "",
-                "matchingCase": true,
-=======
-                "query": "props",
                 "matchingCase": false,
->>>>>>> Stashed changes
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -161,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Sem título.md",
+                "file": "_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário"
             }
           }
         ]
@@ -188,107 +167,13 @@
       "bases:Criar nova base": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "c40c0d07d59a908d",
-  "lastOpenFiles": [
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/Projeto semestre.md",
-    "Entrevista.md",
-    "cars/Projeto semestre.md",
-    "cars",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/cars",
-    "readme/node_modules/next/dist/docs/01-app/01-getting-started/04-linking-and-navigating.md",
-    "TipsCode/mongo-db/CRUD.md",
-    "Analise Desenvolvimento de Sistemas/Gestão de Projetos/Revisão.md",
-    "TipsCode/Sem título",
-    "Analise Desenvolvimento de Sistemas/Banco de Dados/Aulas/Create com fields.md",
-    "Analise Desenvolvimento de Sistemas/Gestão de Projetos",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/BobbleShort.md",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/Construtor.md",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/construct/run",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/construct/viagem.cpp",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/construct/viagem.cp",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/construct/viagem.h",
-    "TipsCode/shop-app/api/node_modules/mime-db/HISTORY.md",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/construct",
-    "Analise Desenvolvimento de Sistemas/Matematica/Revisão Sinais.md",
-    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20260219224036.png",
-    "TipsCode/useState vs useRef.md",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/POO.md",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/This.md",
-    "Analise Desenvolvimento de Sistemas/Linguagem/poo/Emcapsulamento.md",
-    "Vercel/App Router/Component.md",
-    "TipsCode/React/useState.md",
-    "TipsCode/React/Spread.md",
-    "TipsCode/React/Props.md",
-    "TipsCode/React/Manipulação de eventos.md",
-    "TipsCode/React/Gerenciado arvore de component parte 3.md",
-    "TipsCode/React/Destruction.md",
-    "TipsCode/React/Condição Ternário e And.md",
-    "TipsCode/React/Classes vs Hooks.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/C++/2025-recap/begoco/Gerenciado arvore de component parte 3.md",
-    "TipsCode/React",
-    "Analise Desenvolvimento de Sistemas/Lógica/Aulas/Desafio dos baldes.md",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20260131152617.png",
-    "TipsCode/Phyton/Sem título.canvas",
-    "Analise Desenvolvimento de Sistemas/Matematica/Materiais/Pasted image 20250827205405.png",
-    "TipsCode/JavaScript/images/Pasted image 20250826043320.png",
-    "TipsCode/JavaScript/images/Pasted image 20250826050746.png",
-    "Analise Desenvolvimento de Sistemas/Computação/Materiais/Pasted image 20250819201518.png",
-    "Analise Desenvolvimento de Sistemas/Computação/Materiais/Pasted image 20250819202419.png",
-    "Analise Desenvolvimento de Sistemas/Computação/Materiais/Pasted image 20250819201826.png",
-    "Pasted image 20250814222729.png",
-    "Analise Desenvolvimento de Sistemas/Algoritmo/Materiais/Pasted image 20250730214339.png",
-    "Sem título.canvas",
-    "Versel/Sem título.canvas"
-=======
   "active": "ee4ff490294dc28d",
   "lastOpenFiles": [
-    "Projects/smc-assis/src/app/components/Header.tsx~",
-    "Projects/smc-assis/src/app/constants/header-menu-links.ts~",
-    "Projects/smc-assis/src/app/constants/courses-data.ts~",
-    "Projects/smc-assis/public/teachers/valeria.jpg",
-    "Projects/smc-assis/public/teachers/nelson.jpg",
-    "Projects/smc-assis/public/teachers/rafael.jpg",
-    "Projects/smc-assis/public/teachers/flavia.jpg",
-    "Projects/smc-assis/public/teachers/mauricio.jpg",
-    "Projects/smc-assis/public/teachers/marcio.jpg",
-    "Projects/smc-assis/public/teachers/danilo.jpg",
-    "Projects/smc-assis/public/teachers/ricardo.jpg",
-    "Projects/smc-assis/public/teachers/renata.jpg",
-    "Projects/smc-assis/public/teachers/jessica.jpg",
-    "Projects/smc-assis/public/teachers",
-    "Projects/smc-assis/src/app/course/[id]/page.tsx~",
-    "Projects/smc-assis/src/app/components/Teachers.tsx~",
-    "Projects/smc-assis/src/app/components/Teachers.tsx",
-    "Projects/smc-assis/src/app/components/Teachers.jsx",
-    "Projects/smc-assis/src/app/course/[id]/page.tsx",
-    "Projects/smc-assis/src/app/course/[id]",
-    "Projects/smc-assis/src/app/course",
-    "Projects/flux/node_modules/next/dist/docs/02-pages/03-building-your-application/03-data-fetching/01-get-static-props.md",
-    "Snippts/Docs/Configurando ESLINT Pritter.md",
-    "Projects/flux/node_modules/slice-ansi/node_modules/ansi-styles/readme.md",
-    "Projects/flux/node_modules/slice-ansi/readme.md",
-    "Projects/flux/node_modules/wrap-ansi/node_modules/ansi-styles/readme.md",
-    "Projects/flux/node_modules/wrap-ansi/readme.md",
-    "Projects/flux/node_modules/lint-staged/node_modules/picomatch/README.md",
-    "Projects/flux/node_modules/lint-staged/README.md",
-    "Projects/flux/node_modules/lint-staged/MIGRATION.md",
-    "Projects/flux/node_modules/log-update/node_modules/wrap-ansi/readme.md",
-    "Projects/flux/node_modules/log-update/node_modules/string-width/readme.md",
-    "Projects/flux/node_modules/log-update/node_modules/emoji-regex/README.md",
-    "Projects/flux/node_modules/log-update/node_modules/slice-ansi/readme.md",
-    "Projects/flux/node_modules/log-update/node_modules/ansi-styles/readme.md",
-    "Projects/flux/node_modules/log-update/readme.md",
-    "Projects/flux/node_modules/husky/README.md",
-    "Projects/flux/node_modules/ansi-regex/readme.md",
-    "Projects/flux/node_modules/get-east-asian-width/readme.md",
-    "Projects/flux/node_modules/is-fullwidth-code-point/readme.md",
-    "Projects/flux/node_modules/mimic-function/readme.md",
-    "Projects/flux/node_modules/signal-exit/README.md",
-    "Projects/flux/node_modules/onetime/readme.md",
-    "Projects/flux/node_modules/restore-cursor/readme.md",
-    "Projects/flux/node_modules/environment/readme.md",
-    "Projects/flux/node_modules/strip-ansi/readme.md"
->>>>>>> Stashed changes
+    "_index.md",
+    "Livros/_index.md",
+    "Templates/livro.md",
+    "Templates/aula.md",
+    "Templates/daily.md",
+    "Templates/projeto.md"
   ]
 }

@@ -1,3 +1,9 @@
+---
+tags: [aula, algoritmo, matriz]
+disciplina: "Algoritmo"
+tipo: aula
+---
+
 # Diagonal Principal  DP
 É a linha de elementos que vai do canto superior esquerdo até o canto inferior direito.
 

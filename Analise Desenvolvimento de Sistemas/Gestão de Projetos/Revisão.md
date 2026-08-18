@@ -1,3 +1,9 @@
+---
+tags: [aula, gestao-de-projetos, pmbok, revisao]
+disciplina: "Gestao de Projetos"
+tipo: aula
+---
+
 # Projeto
 É um esforço temporário, para criar um produto servico ou resultados.
 - Temporario
@@ -29,7 +35,7 @@ Desvantagens: Turn-over : Natureza temporarial não sabem aonde realocar as pess
 Parece uma Fucional, porém tem area para projetos é a forma **Matricial**, há um gerente de projetos ele tem poder de alocar pessoas e recursos.
 
 ## Ciclo de vida
-Iniciacição -> planejamento -> execução -> ençerramento.
+Iniciacição -> planejamento -> execução -> encerramento.
 
 # Gerente de Projetos (gp)
 é a pessoa designada pela organização do projeto.
@@ -38,19 +44,19 @@ Deve ter experiencia na area do projeto.
 Processo de iniciação:
 # Termo de Abertura de Projeto TAP
 Documento consta objetivos, partes interessadas e organização planejamento e como sera a execução.
-- Bunesses Case
+- Business Case
 
 # Stackholders
-Sao as partes interessadas quem são os involvidos, fornecedores,empresas.
+Sao as partes interessadas quem são os involvidos, fornecedores,empresas
 
 Planejamento:
 # Escopo
-E detalhado e completo estabelecer e refinar objetivos, o plano de ação é necessario para alcançar objetivos. Também Especificacoes do projeto.
+É detalhado e completo estabelecer e refinar objetivos, o plano de ação é necessário para alcançar objetivos. Também Especificacoes do projeto.
 Objetivos SMARTs 
 definir premissas, seria assumir que possa acontecer riscos, e amenizar impactos.
 Podemos também prever como seria uma mudança de software, como um procedimento sera feita apenas pelo um formulário enviado por um email blabla.
 
-definar eap é  uma ferramente para visualmente definir a estrutura do projeto
+Definir EAP é uma ferramenta para visualmente definir a estrutura do projeto
 Coloque na linha do tempo e monte um cronograma.
 
 

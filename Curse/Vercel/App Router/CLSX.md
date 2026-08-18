@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, app-router, css]
+tipo: curso
+fonte: "Vercel"
+---
+
+# CLSX — Classes Condicionais
+
 Usamos quando precisamos estilizar condicionalmente um elemento.
 
 Suponha que quero criar um [[Components]] de status. O status pode ser pendente ou ativo. No nosso exemplo pendente é verde e ativo é verde.

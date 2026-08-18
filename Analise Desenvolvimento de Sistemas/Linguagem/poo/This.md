@@ -1,4 +1,10 @@
-# this é um ponteiro fixo em c++
+---
+tags: [aula, poo, codigo, cpp]
+disciplina: "Linguagem"
+tipo: aula
+---
+
+# Ponteiro this em C++
 Ele sempre aponta para os atributos de uma classe definida em seu código.
 
 Por exemplo quero usar fazer uma atribuição apatir de um método Setter
@@ -16,5 +22,5 @@ void setId(int id) {
 	this->id = id;	
 }
 ````
-Aqui o compilador sabe que está se refirindo a Id atributo.
+Aqui o compilador sabe que está se referindo a Id atributo.
 

@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, app-router]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Estrutura de Pastas
+
 Vamos ter por padrão do [[NextJS]] a seguinte estrutura de pastas:
 ![[Pasted image 20250729143830.png]]
 

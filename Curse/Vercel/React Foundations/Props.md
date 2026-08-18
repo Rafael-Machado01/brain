@@ -1,3 +1,11 @@
+---
+tags: [curso, react, vercel, props]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Props
+
 No exemplo de [[Components]] se usarmos o mesmo componente duas vezes, ele exibirá o mesmo conteúdo.
 
 ````

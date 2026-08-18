@@ -1,3 +1,11 @@
+---
+tags: [aula, matematica, conjuntos]
+disciplina: "Matematica"
+tipo: aula
+---
+
+# Operações com Conjuntos
+
 Exemplo Conjunto
 ````
 A={1,2,3,4} 

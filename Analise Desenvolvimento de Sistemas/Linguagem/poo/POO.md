@@ -1,4 +1,10 @@
-t# Como declarar e usar.
+---
+tags: [aula, poo, codigo, cpp]
+disciplina: "Linguagem"
+tipo: aula
+---
+
+# Como declarar e usar.
 ```
 classe aviao {
 	public:
@@ -22,7 +28,7 @@ int main() {
 
 ```
 
-# Incluindo Emcapsulamento.
+# Incluindo Encapsulamento.
 
 
 `private:`
@@ -36,11 +42,11 @@ int main() {
 	`cin >> velocidade`
 	`}`
 	
-	`// Geters agora voce so pode usar o atributos apatir de um metodo get.`
+	`// Geters agora voce so pode usar o atributos apartir de um metodo get.`
 	`int getId(return this-> id;)` 
 	
-	`// Seters para manipular apatir de um metodo também` 
+	`// Seters para manipular apartir de um metodo também` 
 	`void setId(int id) {this->id = id;};`
 
 
-Para entender melhor leia [[Emcapsulamento]] e [[This]].
+Para entender melhor leia [[Encapsulamento]] e [[This]].

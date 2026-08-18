@@ -1,3 +1,11 @@
+---
+tags: [curso, react, vercel, hooks, estado]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Estados e useState
+
 # Button Like
 Criando um [[Components]] de botão de like com os os Eventos.
 

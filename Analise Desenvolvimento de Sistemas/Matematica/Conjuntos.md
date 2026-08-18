@@ -1,4 +1,12 @@
-Faça a [[Operações com Conjuntos]] assim 
+---
+tags: [aula, matematica, conjuntos]
+disciplina: "Matematica"
+tipo: aula
+---
+
+# Produto Cartesiano
+
+Faça a [[Operações com Conjuntos]] assim
 
 A = {1,3} b = {1,2,4}
 

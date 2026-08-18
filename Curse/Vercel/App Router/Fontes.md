@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, app-router, fontes]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Fontes
+
 O [[NextJS]] otimiza a fonte pois a [Mudança de Layout cumulativa](https://vercel.com/blog/how-core-web-vitals-affect-seo) É uma métrica usada pelo Google para avaliar o desempenho do site.Inicialmente processa texto em uma fonte de fallback ou sistema e, em seguida, troca-a por uma fonte personalizada depois de carregada. Esse swap pode fazer com que o tamanho do texto, o espaçamento ou o layout sejam alterados, mudando os elementos ao seu redor.
 
 ![[Pasted image 20250729193209.png]]

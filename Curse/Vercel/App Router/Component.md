@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, componentes]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Componente Reutilizável — GlassCard
+
 # Olha que exemplo de componente bom e reutilizável.
 
 ```

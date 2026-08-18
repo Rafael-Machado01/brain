@@ -1,8 +1,14 @@
+---
+tags: [aula, banco-de-dados, sql, dml]
+disciplina: "Banco de Dados"
+tipo: aula
+---
+
 # Insert 
 Incluir Linhas.
 
 ````
-INSERT INTO tabala [coluna]
+INSERT INTO tabela [coluna]
 VALUES (valor)
 ````
 

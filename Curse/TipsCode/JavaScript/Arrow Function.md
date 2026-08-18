@@ -1,3 +1,11 @@
+---
+tags: [curso, javascript, tipscode]
+tipo: curso
+fonte: "TipsCode"
+---
+
+# Arrow Function
+
 Criado para reduzir a escrita de funções e para this não variar.
 
 ````

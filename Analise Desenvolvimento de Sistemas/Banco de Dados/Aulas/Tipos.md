@@ -1,3 +1,11 @@
+---
+tags: [aula, banco-de-dados, sql]
+disciplina: "Banco de Dados"
+tipo: aula
+---
+
+# Tipos de Dados
+
 No banco de dados, precisamos selecionar qual o tipo do dado que vamos guardar são eles:
 
 Todos os tipos são seguidos ao número limite que o dado pode chegar.

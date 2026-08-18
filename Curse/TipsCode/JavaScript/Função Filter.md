@@ -1,3 +1,11 @@
+---
+tags: [curso, javascript, tipscode, array]
+tipo: curso
+fonte: "TipsCode"
+---
+
+# Função Filter
+
 Filtrar os dados com alguma condição
 
 ```

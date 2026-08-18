@@ -1,3 +1,11 @@
+---
+tags: [curso, react, vercel, props]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Props — Exercício
+
 Props são propiedades podemos setar ou deixar dinamico.
 
 ```

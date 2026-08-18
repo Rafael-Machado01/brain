@@ -1,3 +1,9 @@
+---
+tags: [aula, banco-de-dados, modelagem]
+disciplina: "Banco de Dados"
+tipo: aula
+---
+
 # Primary Key
 É o identificador de cada linha da tabela, ela não pode ser repetida e não pode ser vazia.
 ```

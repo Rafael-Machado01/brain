@@ -1,5 +1,12 @@
+---
+tags: [aula, estatistica]
+disciplina: "Estatistica"
+tipo: aula
+---
 
-# Fórmula 
+# Porcentagem
+
+## Fórmula
 ````
 (porcentagem * número) / 100
 ````

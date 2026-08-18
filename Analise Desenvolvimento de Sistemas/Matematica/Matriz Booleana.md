@@ -1,3 +1,11 @@
+---
+tags: [aula, matematica, matriz]
+disciplina: "Matematica"
+tipo: aula
+---
+
+# Matriz Booleana
+
 Uma matriz booleana é uma matriz composta apenas por 0 e 1.
 
 A = [1 0 

@@ -1,3 +1,11 @@
+---
+tags: [aula, logica]
+disciplina: "Logica"
+tipo: aula
+---
+
+# Operadores Lógicos
+
 # 0 = OFF
 Porta fecha, ausência de energia.
 

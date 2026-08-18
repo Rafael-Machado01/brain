@@ -1,4 +1,12 @@
-Para criar uma div chama main em React você usa isso:
+---
+tags: [curso, react, vercel, componentes]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Components
+
+Para criar uma div chamada main em React você usa isso:
 ```
 function Main() {
 return <div> </div>

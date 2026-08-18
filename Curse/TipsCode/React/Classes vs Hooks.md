@@ -1,3 +1,10 @@
+---
+tags: [curso, react, tipscode, hooks]
+tipo: curso
+fonte: "TipsCode"
+---
+
+# Classes vs Hooks
 
 ![[Pasted image 20250115093450.png]]
 por exemplo antes era .renderReact Component e render() e o return antes não 

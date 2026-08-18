@@ -1,3 +1,11 @@
+---
+tags: [curso, nextjs, vercel, app-router, css]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Estilos Globais
+
 Podemos armazenar um css global na pasta /ui que aprendemos na [[Estrutura de Pasta]].
 
 Podemos importar o arquivo em qualquer componente do aplicativo, mais sempre é de boa pratica importá-lo de nível superior ou no meu "app" ou index.

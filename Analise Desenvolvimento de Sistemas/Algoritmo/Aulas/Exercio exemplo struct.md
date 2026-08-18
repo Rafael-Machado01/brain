@@ -1,3 +1,11 @@
+---
+tags: [exercicio, algoritmo, codigo, struct]
+disciplina: "Algoritmo"
+tipo: exercicio
+---
+
+# Exercício — Struct
+
 ````
 #include <iostream>
 #include <cmath>

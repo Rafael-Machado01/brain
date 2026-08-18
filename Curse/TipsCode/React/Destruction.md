@@ -1,5 +1,12 @@
+---
+tags: [curso, react, tipscode, javascript]
+tipo: curso
+fonte: "TipsCode"
+---
 
-antes para pegar apenas o primeiro objeto e o nome fariamos assim
+# Desestruturação (Destructuring)
+
+Antes, para pegar apenas o primeiro objeto e o nome, fariamos assim:
 
 console.log(animals[0].name);
 

@@ -1,4 +1,12 @@
-Props são propiedades podemos setar ou deixar dinamico.
+---
+tags: [curso, react, tipscode, props]
+tipo: curso
+fonte: "TipsCode"
+---
+
+# Props no React
+
+Props são propriedades podemos setar ou deixar dinamico.
 
 ```
 Exemplo de Props

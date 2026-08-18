@@ -1,3 +1,11 @@
+---
+tags: [aula, banco-de-dados, sql]
+disciplina: "Banco de Dados"
+tipo: aula
+---
+
+# SELECT
+
 ```
 SELECT *FROM PROFESSOR
 ````

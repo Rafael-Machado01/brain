@@ -1,4 +1,12 @@
-O arquivo layout é oque é o nome, se criarmos na pasta pai de uma rota igual vimos no [[Roteador]] fazemos que todas as paginas filhos tenha o código que tenha no layout.
+---
+tags: [curso, nextjs, vercel, app-router]
+tipo: curso
+fonte: "Vercel"
+---
+
+# Layout
+
+O arquivo layout é o que o nome diz, se criarmos na pasta pai de uma rota igual vimos no [[Roteador]] fazemos que todas as paginas filhos tenham o código que está no layout.
 
 ![[Pasted image 20250730072006.png]]
 ````

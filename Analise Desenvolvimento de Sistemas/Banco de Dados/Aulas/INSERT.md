@@ -1,3 +1,11 @@
+---
+tags: [aula, banco-de-dados, sql]
+disciplina: "Banco de Dados"
+tipo: aula
+---
+
+# INSERT
+
 Comando [[SQL DML]] usado para incluir linhas
 
 ````
