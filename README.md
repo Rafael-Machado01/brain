@@ -1,6 +1,6 @@
 # Brain
 
-Vault de conocimiento personal en [Obsidian](https://obsidian.md). Estrutura organizada para estudos de Analise e Desenvolvimento de Sistemas, cursos online e leitura de livros.
+Vault de conhecimento pessoal no [Obsidian](https://obsidian.md). Estrutura organizada para estudos de Análise e Desenvolvimento de Sistemas, cursos online e leitura de livros.
 
 ## Estrutura
 
