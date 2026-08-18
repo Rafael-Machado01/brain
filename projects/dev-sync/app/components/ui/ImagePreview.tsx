@@ -1,45 +1,55 @@
 "use client";
-
 import { useState } from "react";
-import Avatar from "@/app/components/ui/Avatar";
 import Input from "@/app/components/ui/Input";
-
+import Label from "@/app/components/ui/Label";
+import Image from "next/image";
 export default function ImagePreview() {
-  const [imagePreview, setImagePreview] = useState<string | null>(null);
-  const [selectedImage, setSelectedImage] = useState<File | null>(null);
-
-  const handleImageChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+  const [imageSelect, setImageSelect] = useState<string | null>(null);
+  const handleChangeImage = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (file) {
       const reader = new FileReader();
 
       reader.onloadend = () => {
-        setImagePreview(reader.result as string);
-        setSelectedImage(file);
+        setImageSelect(reader.result as string);
       };
-      reader.readAsDataURL(file)
+      reader.readAsDataURL(file);
     }
+  };
+  const onClickRemove = () => {
+    setImageSelect("");
   };
   return (
     <div>
-      {imagePreview && (
-        <Avatar
-          size={56}
-          ring
-          src={imagePreview}
-          alt="Pré visualização da imagem"
+      {imageSelect && (
+        <div>
+          <Image
+            src={imageSelect}
+            height={100}
+            width={200}
+            className="rounded-lg object-fill shadow-md w-[200] h-[100]"
+            alt="Pré visualização de imagem."
+          />
+          <button
+            onClick={onClickRemove}
+            className="text-drac-comment text-sm cursor-pointer"
+          >
+            Remover Imagem
+          </button>
+        </div>
+      )}
+      <Label
+        text={"📷 foto"}
+        className="cursor-pointer bg-drac-surface p-2 rounded-lg"
+      >
+        <Input
+          type="file"
+          name="image"
+          onChange={handleChangeImage}
+          accept="image/*"
+          className="hidden"
         />
-      )}
-      <Input
-        id="image"
-        type="file"
-        onChange={handleImageChange}
-        name="image"
-        accept="image/*"
-      />
-      {selectedImage && (
-        <input type="hidden" value={selectedImage.name} name="imageFile" />
-      )}
+      </Label>
     </div>
   );
 }

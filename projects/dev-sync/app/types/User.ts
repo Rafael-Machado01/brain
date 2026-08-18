@@ -1,5 +1,6 @@
 import { Like } from "./Like";
 import { Post } from "./Post";
+import { Comment } from "./Comment";
 
 export interface User {
   id: string;
@@ -7,7 +8,6 @@ export interface User {
   email: string | null;
   title: string | null;
   bio: string | null;
-  stacks: string[];
   location: string | null;
   background: string | null;
   emailVerified: Date | null;
