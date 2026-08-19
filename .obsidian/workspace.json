@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analise Desenvolvimento de Sistemas/Matematica/SubConjuntos e Partes.md",
+                "file": "Livros/Atual/Pai Rico Pai Pobre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SubConjuntos e Partes"
+              "title": "Pai Rico Pai Pobre"
             }
           }
         ]
@@ -188,11 +188,12 @@
   },
   "active": "59629a46adbebe09",
   "lastOpenFiles": [
-    "Analise Desenvolvimento de Sistemas/Matematica/Motivação.md",
-    "Analise Desenvolvimento de Sistemas/Matematica/Operações com Conjuntos.md",
-    "Analise Desenvolvimento de Sistemas/Matematica/SubConjuntos e Partes.md",
-    "README.md",
+    "Livros/_index.md",
+    "Livros/Atual/Pai Rico Pai Pobre.md",
     "_index.md",
-    "Livros/_index.md"
+    "README.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/SubConjuntos e Partes.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Motivação.md",
+    "Analise Desenvolvimento de Sistemas/Matematica/Operações com Conjuntos.md"
   ]
 }
