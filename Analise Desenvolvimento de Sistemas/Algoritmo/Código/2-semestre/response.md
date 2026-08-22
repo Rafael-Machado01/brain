@@ -1,3 +1,9 @@
+---
+tags: [faculdade, algoritmo, codigo]
+disciplina: "Algoritmo"
+tipo: codigo
+---
+
 1) Escreva os valores que serão impressos nas duas instruções cout:
 main(){
 int i=3, j=5;

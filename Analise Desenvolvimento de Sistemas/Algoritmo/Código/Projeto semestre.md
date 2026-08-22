@@ -1,3 +1,9 @@
+---
+tags: [faculdade, algoritmo, codigo, projeto]
+disciplina: "Algoritmo"
+tipo: projeto
+---
+
 # Oficina mecanica
 Seguintes structs:
 

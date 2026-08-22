@@ -1,3 +1,9 @@
+---
+tags: [curso, mongodb, tipscode]
+tipo: curso
+fonte: "TipsCode"
+---
+
 Para criar um banco de dados:
 
 ```

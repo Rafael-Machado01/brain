@@ -31,6 +31,7 @@ brain/
 │   ├── TipsCode/
 │   ├── Udemy/
 │   └── Vercel/
+├── Youtube/                                 ← Anotações de vídeos
 └── projects/                              ← Projetos pessoais
 ```
 

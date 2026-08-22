@@ -1,3 +1,9 @@
+---
+tags: [faculdade, algoritmo, codigo]
+disciplina: "Algoritmo"
+tipo: codigo
+---
+
 ## Teste de mesa
 vetor: 1 1000 2  2 2000 1
 

@@ -1,0 +1,7 @@
+ - Documentar a funçao de editar perfil [] **
+ - Feedback de formulário e segurança [x]
+ - Resgatar posts e resgatar posts do usuário[x]
+ - Documentar a funçao de criar post [] **
+ - Documentar a funçao de logout [x]
+ - Documentar a funçao de Like []
+ - Documentar a funcao de comentarios [su]

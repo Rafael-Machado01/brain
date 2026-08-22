@@ -31,12 +31,12 @@ Estado booleano visível + setTimeout dentro do useEffect, com cleanup do timer 
 
 ## Exemplo
 
-```
+```tsx
 interface FlashMessageProps {
 message: string;
 type: "success" | "error"
 }
-
+``
 export default function FlashMessage({message,type}: FlashMessageProps) {
 const [isVisible, setIsVisible] = useState(true);
   useEffect(() => {

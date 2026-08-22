@@ -1,3 +1,9 @@
+---
+tags: [curso, python, tipscode]
+tipo: curso
+fonte: "TipsCode"
+---
+
 # PEMDAS
 ## Ordem de precendencia 
 

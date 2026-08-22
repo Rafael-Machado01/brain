@@ -36,6 +36,12 @@ Meu vault de conhecimento pessoal.
 
 > [[Livros/_index|Ver seção de livros]]
 
+## Youtube
+
+| Nota | Canal | Assunto |
+|------|-------|---------|
+| [[Youtube/Pare de assistir tutorias de programação\|Tutorial Hell]] | Angelo Hervis - Dev | Projetos práticos, CI/CD, Trade-offs |
+
 ## Projetos
 
 | Projeto | Status |

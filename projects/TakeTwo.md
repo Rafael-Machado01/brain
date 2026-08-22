@@ -1,3 +1,8 @@
+---
+tags: [pesquisa, investimento]
+tipo: pesquisa
+---
+
 # Análise de Investimento: Take-Two Interactive (TTWO) e a Tese GTA 6
 
 **Dados de mercado coletados em 17/08/2026.** Preços de ações e câmbio mudam a cada minuto — os números abaixo são um retrato daquele momento, não uma cotação ao vivo. Sempre confira valores atualizados antes de qualquer decisão.

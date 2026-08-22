@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca14b6deb3ac7272",
+        "id": "0207c2969a8bb70d",
         "type": "tabs",
         "children": [
           {
-            "id": "77d247ad87c1a236",
+            "id": "ccefa8356cdb4bfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/NextJs/Prisma/Schemas.md",
+                "file": "Youtube/Pare de assistir tutorias de programação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schemas"
+              "title": "Pare de assistir tutorias de programação"
             }
           }
         ]
@@ -186,33 +186,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "77d247ad87c1a236",
+  "active": "ccefa8356cdb4bfb",
   "lastOpenFiles": [
+    "Cursos/NextJs/dev-sync/Resgatar dados do Banco + Resgatar com condições.md",
+    "Youtube/Pare de assistir tutorias de programação.md",
+    "Youtube",
+    "Cursos/NextJs/dev-sync/FeedBack de Formulário + Válidação.md",
+    "projects/dev-sync/exmpl.tsx",
+    "Cursos/NextJs/dev-sync/Editar Perfil.md",
+    "2026-08-22.md",
+    "Cursos/NextJs/Componente Reutilizável.md",
+    "Cursos/NextJs/AuthJs/Logout.md",
+    "Cursos/NextJs/Renderização ternária.md",
+    "Cursos/NextJs/dev-sync",
+    "Livros/Atual/Pai Rico Pai Pobre.md",
+    "Livros/_index.md",
+    "_index.md",
+    "Cursos/NextJs/images/Pasted image 20260821193134.png",
+    "Cursos/NextJs/images",
+    "Cursos/NextJs/images/Pasted image 20260821192732.png",
+    "Cursos/NextJs/images/Pasted image 20260821192729.png",
+    "Cursos/NextJs/FlashMessage Component.md",
+    "Cursos/NextJs/ImagePreviewComponent.md",
     "Cursos/NextJs/Prisma/Instalação.md",
     "Cursos/NextJs/Prisma/Schemas.md",
     "Cursos/NextJs/AuthJs/Provider Google.md",
     "Cursos/NextJs/Prisma",
-    "Pasted image 20260821193134.png",
     "Cursos/NextJs/AuthJs/Provider GitHub.md",
     "Cursos/NextJs/AuthJs/Verificar se esta logado hook.md",
-    "Pasted image 20260821192732.png",
-    "Pasted image 20260821192729.png",
     "Cursos/NextJs/AuthJs/Instalação.md",
-    "Cursos/NextJs/ImagePreviewComponent.md",
     "Cursos/NextJs/AuthJs",
-    "Cursos/NextJs/Renderização ternária.md",
-    "Cursos/NextJs/FlashMessage Component.md",
     "Cursos/NextJs/Constantes.md",
-    "Cursos/NextJs/Componente Reutilizável.md",
     "Curse/NextJs/ImagePreviewComponent.md",
     "Cursos/Udemy/Next/introducao/src/app/produtos/categorias/[categoria]/page.js",
     "Cursos/Vercel/App Router/Project/nextjs-dashboard/app/ui/invoices/table.tsx",
     "Cursos/Vercel/App Router/Project/nextjs-dashboard/app/ui/invoices/status.tsx",
     "Cursos/Vercel/App Router/Project/nextjs-dashboard/app/ui/invoices/pagination.tsx",
-    "Cursos/Vercel/App Router/Project/nextjs-dashboard/app/ui/invoices/edit-form.tsx",
-    "Cursos/Vercel/App Router/Project/nextjs-dashboard/app/ui/invoices/create-form.tsx",
-    "Cursos/Vercel/App Router/Project/nextjs-dashboard/app/ui/invoices/buttons.tsx",
-    "Cursos/Vercel/App Router/Project/nextjs-dashboard/app/ui/invoices/breadcrumbs.tsx",
     "Cursos/Vercel/App Router/Project/nextjs-dashboard/public/customers/michael-novotny.png",
     "Cursos/Vercel/App Router/Project/nextjs-dashboard/public/customers/lee-robinson.png",
     "Cursos/Vercel/App Router/Project/nextjs-dashboard/public/customers/evil-rabbit.png",
@@ -224,15 +233,6 @@
     "Cursos/Udemy/React/final/README.md",
     "Cursos/Udemy/Next/introducao/README.md",
     "Cursos/Udemy/Next/estilos/README.md",
-    "Cursos/Udemy/Next/data-fetching/README.md",
-    "Cursos/Udemy/Next/auth/README.md",
-    "Cursos/Udemy/Next/auth/CLAUDE.md",
-    "Cursos/Udemy/Next/auth/AGENTS.md",
-    "Cursos/TipsCode/shop-app/view/README.md",
-    "Cursos/TipsCode/Python/mod2/pendas.md",
-    "Cursos/Vercel/nextjs-dashboard/README.md",
-    "Cursos/Vercel/React Foundations/props-xp.md",
-    "Cursos/Vercel/React Foundations/UI.md",
-    "Cursos/Vercel/React Foundations/Spread.md"
+    "Cursos/Udemy/Next/data-fetching/README.md"
   ]
 }

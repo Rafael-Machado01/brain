@@ -1,3 +1,9 @@
+---
+tags: [curso, react, tipscode, hooks]
+tipo: curso
+fonte: "TipsCode"
+---
+
 # UseState 
 Serve para armazenamento de variaveis e para manipularmos ele usamos outra geralmente é assim :
 

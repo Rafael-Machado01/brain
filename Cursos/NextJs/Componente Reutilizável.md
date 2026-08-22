@@ -6,7 +6,7 @@ projeto: dev-sync
 arquivo: Modal.tsx
 nivel: simples
 dominado: true
-data: 2026-08-18
+data: 2026-08-21
 tipo: feature
 ---
 

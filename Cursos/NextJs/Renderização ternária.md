@@ -26,7 +26,7 @@ Se for true renderize
 Se for false não renderize
 ## Onde está no código
 
-```
+```tsx
 import {useState} from "react";
 const [isVisible,setIsVisible] = useState(false);
 // variável
@@ -44,6 +44,27 @@ return (
 
 ```
 
+### Exemplo com tres verifacações
+
+```tsx
+// se modal estiver aberto, confira se o post tem comentarios se tiver mostre os comentarios e a opção de criar novo comentario
+
+// se o modal estiver aberto e nao tem comentario apenas a função de criar comentario
+
+// se o modal não estiver aberto nao renderize nada
+
+{isCommentModalOpen ? (
+        (post.comments?.length ?? 0) > 0 ? (
+          <>
+            <CommentSection posts={post} />
+            <NewComment post={post} currentUserId={currentUserId} />
+          </>
+        ) : (
+          <NewComment post={post} currentUserId={currentUserId} />
+        )
+      ) : (
+        " "
+```
 
 ## Checklist de revisão
 

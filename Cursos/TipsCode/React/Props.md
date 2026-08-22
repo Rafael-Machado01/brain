@@ -53,5 +53,3 @@ export default data;
 ````
 
 Gg!
-
-[[04 - Praticando props]]

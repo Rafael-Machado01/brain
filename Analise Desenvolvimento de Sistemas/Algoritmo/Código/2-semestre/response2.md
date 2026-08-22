@@ -1,3 +1,9 @@
+---
+tags: [faculdade, algoritmo, codigo]
+disciplina: "Algoritmo"
+tipo: codigo
+---
+
 Leia o código abaixo e assinale para cada IF qual será a saída do programa:
 main(){
 int *p, *p1, x=10, y=20;
