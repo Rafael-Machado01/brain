@@ -1,9 +1,13 @@
+"use client";
 import type { Post as PostType } from "@/app/types/Post";
 import Card from "@/app/components/ui/Card";
 import Avatar from "@/app/components/ui/Avatar";
 import Image from "next/image";
 import Line from "../ui/Line";
 import LikeButton from "./LikeButton";
+import CommentButtonIcon from "../svg/CommentButtonIcon";
+import CommentModal from "./CommentModal";
+import { useState } from "react";
 
 interface PostProps {
   post: PostType;
@@ -15,6 +19,9 @@ export default function Post({ post, currentUserId }: PostProps) {
   if (post.likes) {
     isLiked = post.likes.some((like) => like.userId == currentUserId);
   }
+
+  const [isCommentModalOpen, setIsCommentModalOpen] = useState(false);
+
   function generateNodeId() {
     return crypto.randomUUID().replaceAll("-", "").slice(0, 6).toUpperCase();
   }
@@ -66,7 +73,32 @@ export default function Post({ post, currentUserId }: PostProps) {
           isLiked={isLiked}
           currentUserId={currentUserId}
         />
+        <button
+          onClick={() => setIsCommentModalOpen(!isCommentModalOpen)}
+          className="mt-2 ml-1 flex items-center"
+        >
+          <CommentButtonIcon className="text-drac-comment size-4.5" />
+          <span className="text-drac-comment text-xs">
+            {post.comments ? post.comments.length : 0}
+          </span>
+        </button>
       </div>
+      <CommentModal
+        post={post}
+        currentUserId={currentUserId}
+        isOpen={isCommentModalOpen}
+        onRequestClose={() => setIsCommentModalOpen(false)}
+      />
+      {post.comments && post.comments.length > 0 ? (
+        {
+          post.comments.map((comment) => (
+            <div className="flex items-center">
+              
+           </div>
+         ))}
+      ): (
+      <p>Ainda não há comentários<p/>
+      )}
     </Card>
   );
 }

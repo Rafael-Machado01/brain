@@ -26,7 +26,8 @@ brain/
 │   ├── Computação/
 │   ├── Gestão de Projetos/
 │   └── Estatística/
-├── Curse/                                 ← Cursos online
+├── Cursos/                                  ← Cursos online
+│   ├── NextJs/
 │   ├── TipsCode/
 │   ├── Udemy/
 │   └── Vercel/
@@ -158,3 +159,4 @@ Clique no ícone de grafo no painel esquerdo para ver as conexões entre todas a
 | `livro` | Notas de livro com progresso, capítulos e insights |
 | `daily` | Diário de estudos com tarefas e reflexões |
 | `projeto` | Documentação de projetos com TODO list |
+| `feature` | Lógicas de features de projetos, com checklist de revisão |

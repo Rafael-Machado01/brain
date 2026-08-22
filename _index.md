@@ -26,10 +26,11 @@ Meu vault de conhecimento pessoal.
 
 | Curso | Notas |
 |-------|-------|
-| [[Curse/TipsCode/React/Props|TipsCode — React]] | [[Props]], [[useState]], [[Spread]], [[Destruction]] |
-| [[Curse/TipsCode/JavaScript/Arrow Function|TipsCode — JavaScript]] | [[Arrow Function]], [[Função Map]], [[Função Filter]] |
-| [[Curse/Vercel/React Foundations/React|Vercel — React Foundations]] | [[React]], [[Components]], [[Props]], [[NextJS]] |
-| [[Curse/Vercel/App Router/Layout|Vercel — App Router]] | [[Layout]], [[Roteador]], [[Link]], [[Image]] |
+| [[Cursos/TipsCode/React/Props|TipsCode — React]] | [[Props]], [[useState]], [[Spread]], [[Destruction]] |
+| [[Cursos/TipsCode/JavaScript/Arrow Function|TipsCode — JavaScript]] | [[Arrow Function]], [[Função Map]], [[Função Filter]] |
+| [[Cursos/Vercel/React Foundations/React|Vercel — React Foundations]] | [[React]], [[Components]], [[Props]], [[NextJS]] |
+| [[Cursos/Vercel/App Router/Layout|Vercel — App Router]] | [[Layout]], [[Roteador]], [[Link]], [[Image]] |
+| [[Cursos/NextJs/Componente Reutilizável|NextJs — Features dev-sync]] | [[Componente Reutilizável]], [[FlashMessage Component]], [[ImagePreviewComponent]], [[Renderização ternária]], [[Constantes]] |
 
 ## Livros
 
@@ -45,4 +46,4 @@ Meu vault de conhecimento pessoal.
 
 ### Tags
 
-`#aula` `#livro` `#exercicio` `#projeto` `#resumo` `#codigo` `#faculdade` `#curso` `#diario`
+`#aula` `#livro` `#exercicio` `#projeto` `#resumo` `#codigo` `#faculdade` `#curso` `#diario` `#feature`
