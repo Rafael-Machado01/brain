@@ -70,3 +70,4 @@ export async function getUserPosts(userId: string) {
 
 ## Links relacionados
 
+[[Schemas]]

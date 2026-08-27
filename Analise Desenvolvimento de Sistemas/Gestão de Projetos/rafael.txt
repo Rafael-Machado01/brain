@@ -1,6 +1,6 @@
 Trabalho reposição de faltas - Rafael Machado Ampudia
 
- EXERCÍCIO DE FIXAÇÃO -  Metodologia Ageis
+ EXERCÍCIO DE FIXAÇÃO -  Metodologia Ageis 1
 
 1 1. O que VUCA e BANI ajudam a perceber?
 Descrevem as características de um cenário de caos e mudanças incertas.
@@ -23,7 +23,7 @@ Pois a resposta adaptativa é mais flexível e pode se ajustar a mudanças no am
 Quando o ambiente tem mudanças incertas.
 
 
-EXERCÍCIO DE FIXAÇÃO - SCRUM
+EXERCÍCIO DE FIXAÇÃO - SCRUM 2.1
 1. Porque a transparência é importante?
 Para que todos envolvidos no projeto saibem oque está sendo desenvolvido e quais decisões estão sendo tomadas.
 
@@ -48,3 +48,39 @@ o Product Owner.
 8. Do ponto de vista da organização, quais as responsabilidades de um Scrum Master?
 São liders, devem estabelecer e manter o scrum conforme o guia, garantir a transparência e a colaboração entre os membros do time. Ajudar o Scrum Team Entender a necessidade de itens do Product
 Backlog claros e concisos.
+
+
+
+EXERCÍCIO DE FIXAÇÃO
+1. Quantos e quais são os eventos prescritos no Scrum?
+Sprint Planning
+Sprint Review
+Daily Scrum
+Sprint Restropective
+
+2. Quais são os papéis definidos no Scrum?
+Todo o scrum team participa, e so poder ser cancelado pelo Product Onwer
+
+3. Quais os principais pontos abordados em uma Sprint Planning?
+Define trabalho a ser feito,Garante metas estão bem claros. Oque pode e deve ser feito nessa sprint.
+
+4. Em uma Sprint Planning, quem defini o trabalho a ser realizado durante a Sprint?
+Todo o scrum team.
+
+5. Quem deve participar de uma Daily Scrum? Justifique.
+Os desenvoledores da sprint. É opicional o Scrum Master e Product Onwer.
+
+4. Qual o objetivo da Daily Scrum?
+Ver como está o progresso para alcançar a meta da sprint.
+
+5. Porque ela deve ser realizada sempre no mesmo horário?
+Para ser torna mais facil. Mesmo horario e mesmo lugar.
+
+4. Durante uma Sprint Review, o backlog pode ser alterado para a próxima Sprint?
+Sim, para poder atender novas opotunidades.
+
+5. Quando as melhorias identificadas na Sprint Retrospective devem ser implementadas?
+Melhorias mais inpactantes no desempenho na hora da sprint.
+
+6. Qual o objetivo principal da Sprint Retrospective?
+É um evento que conclui a sprint, ele é um relatorio do que foi feito, quem participou.

@@ -1,0 +1,59 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client"
+  output   = "../app/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model TipoAnimal {
+  id        String   @id @default(cuid())
+  descricao String
+  animais   Animal[] // TipoAnimal pode conter varios animais
+}
+
+model Animal {
+  id           String     @id @default(cuid())
+  nome         String
+  tipoAnimal   TipoAnimal @relation(fields: [tipoAnimalId], references: [id]) // Animal pode conter apenas um tipoAnimal
+  tipoAnimalId String
+  idade        Int
+  peso         Float
+  valor        Float
+  rounds       Round[] // Animal pode ter varios rounds
+}
+
+model Round {
+  id             String     @id @default(cuid())
+  competidorId   String
+  competidor     Competidor @relation(fields: [competidorId], references: [id]) // Um round pode ter apenas um competidor
+  animalId       String
+  animal         Animal     @relation(fields: [animalId], references: [id]) // Um round pode ter apenas um animal
+  data           DateTime
+  notaAnimal     Float
+  notaCompetidor Float
+  penalidade     Float
+}
+
+model Competidor {
+  id       String  @id @default(cuid())
+  nome     String
+  idade    Int
+  vitorias Int
+  cidadeId String
+  cidade   Cidade  @relation(fields: [cidadeId], references: [id]) // Competidor tem apenas uma cidade
+  rounds   Round[] // Competidor pode ter varios rounds
+}
+
+model Cidade {
+  id           String       @id @default(cuid())
+  descricao    String
+  estado       String
+  competidores Competidor[] // Cidade pode ter varios competidores
+}

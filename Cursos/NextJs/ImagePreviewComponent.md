@@ -57,6 +57,67 @@ return (
 );
 ```
 
+exemplo com [[EdgeStore - Armazenamento de imagens online]]
+
+```
+"use client";
+import { useState } from "react";
+import Input from "@/app/components/ui/Input";
+import Label from "@/app/components/ui/Label";
+import Image from "next/image";
+import { useEdgeStore } from "@/app/lib/edgestore";
+export default function ImagePreview() {
+  const [imageSelect, setImageSelect] = useState<string | null>(null);
+
+  const { edgestore } = useEdgeStore();
+
+  const handleChangeImage = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (file) {
+      const res = await edgestore.publicFiles.upload({ file });
+      setImageSelect(res.url);
+    }
+  };
+  const onClickRemove = () => {
+    setImageSelect("");
+  };
+  return (
+    <div>
+      {imageSelect && (
+        <div>
+          <Image
+            src={imageSelect}
+            height={100}
+            width={200}
+            className="rounded-lg object-cover shadow-md w-[200] h-[100]"
+            alt="Pré visualização de imagem."
+          />
+          <button
+            onClick={onClickRemove}
+            className="text-drac-comment text-sm cursor-pointer"
+          >
+            Remover Imagem
+          </button>
+        </div>
+      )}
+      <input type="hidden" name="imageUrl" value={imageSelect ?? ""} />
+      <Label
+        text={"📷 foto"}
+        className="cursor-pointer bg-drac-surface p-2 rounded-lg"
+      >
+        <Input
+          type="file"
+          name="image"
+          onChange={handleChangeImage}
+          accept="image/*"
+          className="hidden"
+        />
+      </Label>
+    </div>
+  );
+}
+
+```
 ## Checklist de revisão
 
 - [ ] Sei explicar sem olhar o código

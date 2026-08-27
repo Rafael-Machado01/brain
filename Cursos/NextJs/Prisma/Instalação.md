@@ -27,9 +27,11 @@ Cria um projeto Prisma pronto para a conexão com o Supabase.
 ## Técnica / conceito por trás
 
 ```bash
-npm install prisma --save-dev   # CLI
-npm install @prisma/client @prisma/adapter-pg
+pnpm add @prisma/client@7.9.1 @prisma/adapter-pg@7.9.1
+pnpm add -D prisma@7.9.1
+pnpm add dotenv
 npx prisma init                 # cria prisma/schema.prisma e .env
+pnpm prisma generate
 ```
 
 `.env`:
@@ -42,15 +44,35 @@ DATABASE_URL="postgresql://usuario:senha@host:5432/postgres"
 
 ```ts
 import { PrismaPg } from "@prisma/adapter-pg";
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient } from "@/app/generated/prisma/client";
 
 const adapter = new PrismaPg({
-    connectionString: process.env.DATABASE_URL!,
+  connectionString: process.env.DATABASE_URL!,
 });
 
 export const prisma = new PrismaClient({
-    adapter,
+  adapter,
 });
+
+```
+
+
+``
+```
+
+import "dotenv/config";
+import { defineConfig, env } from "prisma/config";
+
+export default defineConfig({
+  schema: "prisma/schema.prisma",
+  migrations: {
+    path: "prisma/migrations",
+  },
+  datasource: {
+    url: env("DIRECT_URL"),
+  },
+});
+
 ```
 
 > [!important] Por que exportar uma instância única?
