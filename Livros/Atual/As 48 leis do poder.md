@@ -4,7 +4,7 @@ tags:
 autor: Robert Greene
 titulo: As 48 leis do poder
 status: lendo
-progresso: 39
+progresso: 56
 rating: 0
 data_inicio: 2026-08-27
 data_fim: ""
@@ -37,6 +37,10 @@ Sem um adversário à altura, um homem não pode se fortalecer.
 1. Certifique-se de que, no longo prazo, você sairá vitorioso
 	 Jamais entre em luta com quem você não tenha certeza de derrotar.
 2. Se você não tem inimigo, transforme um amigo como alvo.
+
+### Lei 3 - Oculte as suas intenções
+Julgamento
+	 Matenha as pessoas na dúvida e no escuro, jamais revelando o propósito de seus atos. Não sabendo o que você pretende, não podem preparar uma defesa. Leve-as pelo caminho errado até bem longe, envolva em bastante fumaça e quando elas perceberem as suas itenções sera tarde demais.
 
 
 
