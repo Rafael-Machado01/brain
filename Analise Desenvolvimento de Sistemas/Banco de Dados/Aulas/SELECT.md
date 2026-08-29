@@ -19,7 +19,7 @@ SELECT NOME,NASCIMENTO FROM PROFESSOR; // Somente o nome e nascimento
 # Pegando colunas e mostrando mensagens
 
 ````
-SELECT NOME ||' Faz aniversário eno mês de ' || TO_CHAR(NASCIMENTO,'MONTH')
+SELECT NOME ||' Faz aniversário no mês de ' || TO_CHAR(NASCIMENTO,'MONTH')
 || 'E no dia ' || TO_CHAR(NASCIMENTO,'DD')
 || 'E no ano' || TO_CHAR(NASCIMENTO,'YYYY')
 FROM PROFESSOR;
@@ -29,7 +29,7 @@ FROM PROFESSOR;
 Vendo quantos dias de vida a pessoa tem por calculo no select
 
 ````
-SELECT NOME,ROUND((SYSDATE-NASCIMENTO),0)/365 FROM PROFESSOR; // Quantos dias de tem
+SELECT NOME,ROUND((SYSDATE-NASCIMENTO),0)/365 FROM PROFESSOR; // Quantos dias de vida tem
 ````
 
 # Ordenando o select
@@ -71,7 +71,7 @@ WHERE EXISTS
 
 ````
 
-## Decode usnado o codigo de cargo para editar o salario
+## Decode usando o código de cargo para editar o salario
 
 ```
 DECODE(CARGO,1,SALARIO*1.10,

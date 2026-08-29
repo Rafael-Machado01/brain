@@ -12,7 +12,7 @@ Podemos reutilizar durante o código.
 
 Precisamos ter o conhecimento de [[Escopo]] para utilizar as variáveis.
 
-A ordem que vamos criar a funções não importa, mas sim quando vamos chamar ela por exemplo :
+A ordem em que vamos criar as funções não importa, mas sim quando vamos chamá-las, por exemplo:
 
 ````
 main(){

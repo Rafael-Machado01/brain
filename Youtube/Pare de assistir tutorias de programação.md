@@ -11,47 +11,47 @@ canal: Angelo Hervis - Dev
 
 
 ## Resumo
-Em vez de ficar resolvendo problemas, que roda apenas no terminal, e cire projeto que resolva problemas.
+Em vez de ficar resolvendo problemas que rodam apenas no terminal, crie projetos que resolvam problemas reais.
  
 ## Conceitos-chave
 
 > [!important] Conceito Principal
-### Observalidade
-Local aonde podemos armazenar logs, ver estaticias se esta lento, ou rapido.
-Se deu um problema, com um usuario por conta disso e etc.
-Por exemplo, se der um erro ao editar um usuario la no dev-sync, adicione em uma tabela log o erro e as informações como oque o usuario tentou editar e oque bloqueou ele.
+### Observabilidade
+Local aonde podemos armazenar logs, ver estatísticas se está lento ou rápido.
+Se deu um problema com um usuário por conta disso, etc.
+Por exemplo, se der um erro ao editar um usuário lá no dev-sync, adicione em uma tabela de log o erro e as informações como o que o usuário tentou editar e o que o bloqueou.
 
 ## CI/CD
 CI = Continuous Integration (Integração contínua)
-CD = Continuous Delivery/Deployment (Entrega/ Implantação Contínua)
+CD = Continuous Delivery/Deployment (Entrega/Implantação Contínua)
 É a ideia de ter branch dev e branch main.
-Faça PR e refatorações como está acustamado
-Use o SonarQube que é um analisidade de código estatico, procura más praticas e refatora também isso são codesSmells
+Faça PR e refatorações como está acostumado.
+Use o SonarQube, que é um analisador de código estático, procura más práticas e refatora; isso são code smells.
 
 ## Trade-Offs 
-São o lado bom é ruim de uma desição.
+São o lado bom e o lado ruim de uma decisão.
 
 ## Desafio
 1. A ideia
 	 Faça um agendador de barbearia.
-2. Seja o arquiteto não o Pedreiro
-	 Use uma IA mas usar direto na codebase.
+2. Seja o arquiteto, não o Pedreiro
+	 Use uma IA, mas não a use direto na codebase.
 	 Sem prompts merda. 
-	 Não tercerize seu conhecimento e sua desições.
-	 Use o prompt do video.
-	 A IA precisa ser sua parceira, e voce assumir o papel de aprendiz.
-	 Voce vai usar ela para mostrar os tradeofs de suas decições.
+	 Não terceirize seu conhecimento e suas decisões.
+	 Use o prompt do vídeo.
+	 A IA precisa ser sua parceira, e você assumir o papel de aprendiz.
+	 Você vai usar ela para mostrar os trade-offs de suas decisões.
 3. Anote suas dificuldades e erros
 	 Adicione igual estamos criando no dev-sync.
 4. Debug e deploy
-	 Pegue tudo que você desenvolveu e use o debuger e usar aplicação, pode usar IA para esses debugs.
+	 Pegue tudo que você desenvolveu e use o debugger na aplicação, pode usar IA para esses debugs.
 	 FrontEnd e BackEnd
 	 Precisa ter testes unitários nos dois. Pelo menos 80%
-5.  Final
-	 Divulge, peça para pessoas usarem e procurar bugs, de feedback de desings
-	 Se for dev olhe o repositorio.
+5. Final
+	 Divulgue, peça para pessoas usarem e procurarem bugs, e dê feedback de designs.
+	 Se for dev, olhe o repositório.
 	 Durante esse projeto poste a evolução no LinkedIn.
-	 Prazo de duas semanas 14 dias 24/08 - 06/09.
+	 Prazo de duas semanas, 14 dias, 24/08 - 06/09.
  
   
 ## Prompt - Guia 

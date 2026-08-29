@@ -11,7 +11,7 @@ Dois conjuntos são iguais quando todos os seus elementos são idênticos.
 Se
 ````
 A={0,1,2,3,4,5} e B={5,4,3,2,1,0}
-São iguais, não importa há ordem.
+São iguais, não importa a ordem.
 ````
 
 Se

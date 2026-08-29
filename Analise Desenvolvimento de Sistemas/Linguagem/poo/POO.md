@@ -15,15 +15,15 @@ classe aviao {
 	float combustivel;
 	// Métodos
 	void ler() {
-	cout << "Digite a velocidade maxima"
+	cout << "Digite a velocidade máxima"
 	cin >> velocidade
 	}
 }
 
 
 int main() {
-	aviao object; // Declando o objeto
-	object.ler();  // Acessando um metodo.
+	aviao object; // Declarando o objeto
+	object.ler();  // Acessando um método.
 }
 
 ```
@@ -38,14 +38,14 @@ int main() {
 	`float combustivel;`
 `public:`
 	`void ler() {`
-	`cout << "Digite a velocidade maxima"`
+	`cout << "Digite a velocidade máxima"`
 	`cin >> velocidade`
 	`}`
 	
-	`// Geters agora voce so pode usar o atributos apartir de um metodo get.`
+	// Getters: agora você só pode usar os atributos a partir de um método get.
 	`int getId(return this-> id;)` 
 	
-	`// Seters para manipular apartir de um metodo também` 
+	// Setters para manipular a partir de um método também 
 	`void setId(int id) {this->id = id;};`
 
 

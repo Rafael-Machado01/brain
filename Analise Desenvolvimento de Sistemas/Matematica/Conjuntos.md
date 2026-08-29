@@ -8,7 +8,7 @@ tipo: aula
 
 Faça a [[Operações com Conjuntos]] assim
 
-A = {1,3} b = {1,2,4}
+A = {1,3} B = {1,2,4}
 
 ```
 AxB = {(1,1),(1,2),(1,4)

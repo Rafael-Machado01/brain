@@ -13,7 +13,7 @@ B={3,4,5,6}
 ````
 
 # União U
-E só colocar oque tem sem repetir
+É só colocar o que tem sem repetir
 ```
 AuB={1,2,3,4,6}
 ````
@@ -25,18 +25,18 @@ A∩B={3,4}
 ````
 
 # Diferença -
-São os elementos que não se repete no B
+São os elementos que não se repetem no B
 ```
 A-B={1,2} 
-o 3 e 4 se repete no b então não vao e o 5 6 não vai pq ja acabou o A
+o 3 e 4 se repetem no B, então não vão, e o 5 e 6 não vão porque já acabou o A
 ````
 
 # Complementar C
-O simbolo vai tar assim sempre o de baixo - o de cima tipo C b a. o Ultimo é o a então e a - b
+O símbolo vai estar assim: sempre o de baixo - o de cima, tipo Cᵇₐ. O último é o a, então é A - B.
 
 ```
 A-B={1,2} 
-o 3 e 4 se repete no b então não vao e o 5 6 não vai pq ja acabou o A
+o 3 e 4 se repetem no B, então não vão, e o 5 e 6 não vão porque já acabou o A
 ````
 
 ![[Pasted image 20250731072338.png]]

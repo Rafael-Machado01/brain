@@ -18,7 +18,7 @@ Exemplo
 Exemplo
 1)+5-7+10-25= +5 + +10 = +15 -7 - -25 = -32 = -32 - +15 = -18
 
-# Operações com números inteiros (Multiplicação e Divisição)
+# Operações com números inteiros (Multiplicação e Divisão)
 
 Regra de sinal:
 

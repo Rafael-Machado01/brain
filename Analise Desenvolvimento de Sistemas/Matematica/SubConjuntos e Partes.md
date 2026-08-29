@@ -11,10 +11,10 @@ tipo: aula
 # SubConjuntos e Partes
 
 ## Resumo
-Pegue todos os subcojuntos, as partes é o conjunto do subconjunto inteiro. Após achar as partes faça um Hasse.
+Pegue todos os subconjuntos; as partes é o conjunto de todos os subconjuntos. Após achar as partes, faça um Hasse.
 ## Conceitos-chave
 
-SubConjunto Partes Haces
+SubConjunto Partes Hasse
 
 ## Código / Exemplos
 

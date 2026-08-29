@@ -14,7 +14,7 @@ Porta aberta, presença de energia.
 
 # E AND ^
 
-**Todos precisam ser verdade.
+**Todos precisam ser verdadeiros.**
 
 ```
 A^B
@@ -36,7 +36,7 @@ A B A^B
 
 # Ou OR v
 
-**Alguma precisa ser verdadeira.
+**Alguma precisa ser verdadeira.**
 ````
 A B AvL
 ```

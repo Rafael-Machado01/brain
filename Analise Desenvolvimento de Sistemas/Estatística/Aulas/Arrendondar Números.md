@@ -6,7 +6,7 @@ tipo: aula
 
 # Arredondar Números
 
-Quando o primeiro algarismo a ser abandonado é 0 1 2 3 4 fica inalterado o ultimo algarismo permanecer.
+Quando o primeiro algarismo a ser abandonado é 0, 1, 2, 3 ou 4, o último algarismo permanece inalterado.
 # Décimos 
 ```
 53,24 fica 53,2
@@ -19,7 +19,7 @@ Quando o primeiro algarismo a ser abandonado é 0 1 2 3 4 fica inalterado o ulti
 32,7654 fica 32,76
 ````
 
-Quando o algarismo ser abandonado é 5 6 7 8 9 aumenta-se uma unidade o último algarismo a permanecer.
+Quando o algarismo a ser abandonado é 5, 6, 7, 8 ou 9, aumenta-se uma unidade no último algarismo a permanecer.
 # Décimos 
 ```
 42,87 fica 42,9 

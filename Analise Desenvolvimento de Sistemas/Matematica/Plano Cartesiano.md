@@ -15,7 +15,7 @@ tipo: aula
 
 ![[Pasted image 20250730210251.png]]
 
-Isso é Facil
+Isso é Fácil
 
 # Exemplo
 1 - Dado o conjunto A = {1,2} B = {a,b}

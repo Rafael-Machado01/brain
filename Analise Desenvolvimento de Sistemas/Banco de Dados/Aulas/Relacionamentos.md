@@ -4,7 +4,7 @@ disciplina: "Banco de Dados"
 tipo: aula
 ---
 
-# 1:1 - Um pra Um
+# 1:1 - Um para Um
 Por exemplo um único CPF para cada pessoa.
 ```
 Tabela pessoa    Tabela Documentos

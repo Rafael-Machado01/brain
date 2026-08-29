@@ -15,7 +15,7 @@ tipo: aula
 </ol>
 ````
 
-Podemos usar atributo type para definir qual simbolo irá ordenar a lista.
+Podemos usar atributo type para definir qual símbolo irá ordenar a lista.
 
 O atributo start é para definir de qual ordem vai começar a contar ou a ordenar.
 
@@ -23,7 +23,7 @@ O atributo start é para definir de qual ordem vai começar a contar ou a ordena
 
 ## Type
 A = Letras maiúsculas
-a = Letras minúsculos 
+a = Letras minúsculas 
 I = Números romanos maiúsculos
 i = Números romanos minúsculos
 1 = Números
@@ -37,7 +37,7 @@ i = Números romanos minúsculos
 </ul>
 ````
 
-Podemos usar o type para definir qual simbolo vai aparecer antes do item.
+Podemos usar o type para definir qual símbolo vai aparecer antes do item.
 
 ![[Pasted image 20250819201826.png]]
 

@@ -1,0 +1,140 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+/* ─── TOKENS DO PROJETO ─────────────────────────────────────── */
+@theme {
+  /* BASE */
+  --color-rodeo-bg: #0f0d09;
+  --color-rodeo-surface: #171511;
+  --color-rodeo-surface-hover: #1e1a10;
+
+  /* BRAND */
+  --color-rodeo-gold: #c9960a;
+  --color-rodeo-bronze: #cd7f32;
+
+  /* TEXTO */
+  --color-rodeo-text: #f2ecd6;
+  --color-rodeo-text-muted: #8a7d5a;
+
+  /* STATUS */
+  --color-rodeo-success: #22c55e;
+  --color-rodeo-danger: #ef4444;
+  --color-rodeo-warning: #f59e0b;
+  --color-rodeo-info: #3b82f6;
+
+  /* SOMBRAS */
+  --shadow-rodeo-dark: 0 12px 36px rgba(0, 0, 0, 0.5);
+  --shadow-rodeo-gold-sm: 0 4px 16px rgba(201, 150, 10, 0.15);
+  --shadow-rodeo-glow: 0 4px 24px rgba(201, 150, 10, 0.4);
+}
+
+/* ─── MAPEAMENTO SHADCN → TOKENS ────────────────────────────── */
+@theme inline {
+  --font-heading: var(--font-sans);
+  --font-sans: var(--font-sans);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+/* ─── TEMA ARENA RODEIO ─────────────────────────────────────── */
+:root {
+  --radius: 0.625rem;
+
+  --background: var(--color-rodeo-bg);
+  --foreground: var(--color-rodeo-text);
+
+  --card: var(--color-rodeo-surface);
+  --card-foreground: var(--color-rodeo-text);
+
+  --popover: var(--color-rodeo-surface);
+  --popover-foreground: var(--color-rodeo-text);
+
+  --primary: var(--color-rodeo-gold);
+  --primary-foreground: var(--color-rodeo-bg);
+
+  --secondary: var(--color-rodeo-surface-hover);
+  --secondary-foreground: var(--color-rodeo-text);
+
+  --muted: var(--color-rodeo-surface);
+  --muted-foreground: var(--color-rodeo-text-muted);
+
+  --accent: var(--color-rodeo-surface-hover);
+  --accent-foreground: var(--color-rodeo-text);
+
+  --destructive: var(--color-rodeo-danger);
+
+  --border: color-mix(in oklch, var(--color-rodeo-gold) 15%, transparent);
+  --input: var(--color-rodeo-surface);
+  --ring: var(--color-rodeo-gold);
+
+  --chart-1: var(--color-rodeo-gold);
+  --chart-2: var(--color-rodeo-success);
+  --chart-3: var(--color-rodeo-info);
+  --chart-4: var(--color-rodeo-warning);
+  --chart-5: var(--color-rodeo-bronze);
+
+  --sidebar: var(--color-rodeo-bg);
+  --sidebar-foreground: var(--color-rodeo-text);
+  --sidebar-primary: var(--color-rodeo-gold);
+  --sidebar-primary-foreground: var(--color-rodeo-bg);
+  --sidebar-accent: var(--color-rodeo-surface-hover);
+  --sidebar-accent-foreground: var(--color-rodeo-text);
+  --sidebar-border: color-mix(
+    in oklch,
+    var(--color-rodeo-gold) 12%,
+    transparent
+  );
+  --sidebar-ring: var(--color-rodeo-gold);
+}
+
+/* ─── BASE ──────────────────────────────────────────────────── */
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}

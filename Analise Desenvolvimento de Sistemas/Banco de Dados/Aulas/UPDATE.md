@@ -33,7 +33,7 @@ Atualizando o salário do professor do código 33 para 10000
 Exemplo sem condição
 UPDATE PROFESSOR 
 SET SALARIO= SALARIO *1.055
-Aqui todos as linhas de salario da tabela Professor receberam 5.5% de aumento.
+Aqui todas as linhas de salário da tabela Professor receberam 5,5% de aumento.
 ````
 
 ````

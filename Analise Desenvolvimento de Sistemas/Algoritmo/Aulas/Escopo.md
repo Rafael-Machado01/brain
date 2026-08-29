@@ -15,4 +15,4 @@ x = 0
 }
 cout << x; // Variavel x not declared.
 ````
-x foi declarado porem apenas dentro da função main e não pode ser acessada.
+x foi declarado, porém apenas dentro da função main, e não pode ser acessada de fora.

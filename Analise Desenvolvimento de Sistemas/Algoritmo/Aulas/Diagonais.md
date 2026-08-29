@@ -14,7 +14,7 @@ tipo: aula
 
 Diagonal Principal é 1 5 9
 ````
-Como achar a DP ?
+Como achar a DP?
 ```
 if(i = j) 
 ````
@@ -42,7 +42,7 @@ Diagonal Secundária 3 5 7
 Como achar a DS ?
 ```
 i + j = n - 1
-// n = numero da matriz se é 3x3 2x2
+// n = número da matriz, se é 3x3, 2x2
 ````
 
 Acima da DS

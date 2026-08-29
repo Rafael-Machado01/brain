@@ -4,7 +4,7 @@ disciplina: "Algoritmo"
 tipo: aula
 ---
 
-Uma estrutura de repetição dá poder para nosso código pode executar quantas vezes quiser, infinitamente ou por ações de usuários.
+Uma estrutura de repetição dá poder ao nosso código, que pode executar quantas vezes quiser, infinitamente ou por ações de usuários.
 
 # Repita até - While
 

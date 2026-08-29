@@ -39,7 +39,7 @@ Isso deve ser usado quando já se sabe a ordem das colunas.
 Exemplo null
 INSERT INTO PROFESSOR
 VALUES (31,'Ana Julia',null,5000,1,1);
-Dados como Primary Key e Foreing Key não podem ser null.
+Dados como Primary Key e Foreign Key não podem ser null.
 ````
 
 # Resultado

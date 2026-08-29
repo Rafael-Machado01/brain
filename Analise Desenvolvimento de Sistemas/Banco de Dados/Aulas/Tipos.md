@@ -17,7 +17,7 @@ Exemplo: Número com duas casas = 10
 
 # Number
 ```
-Numeros em gerais. 
+Números em geral. 
 Podemos usar também float e int
 ```
 
@@ -25,12 +25,12 @@ Podemos usar também float e int
 ```
 Caracteres - Letras Palavras.
 Numeros e Simbolos
-Tudo armazenado como texto e não variaveis
+Tudo armazenado como texto e não variáveis
 ````
 
 # Varchar 
 ```
-Igual ao Char porém não é preciso prencher o limite imposto. Ele pode ir até o limite ou não.
+Igual ao Char, porém não é preciso preencher o limite imposto. Ele pode ir até o limite ou não.
 ````
 
 # Time

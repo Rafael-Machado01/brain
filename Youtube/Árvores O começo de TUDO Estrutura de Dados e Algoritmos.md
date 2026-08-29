@@ -10,13 +10,13 @@ canal: Fabio Akita
 # Árvores O começo de TUDO Estrutura de Dados e Algoritmos
 
 ## Resumo
-Árovore são como um conjunto, porém mais rapido de percorrer, por exemplo
+Árvores são como um conjunto, porém mais rápido de percorrer, por exemplo
 a=[1,2,3,4,5,6]
 Quebra no meio 
 1234 5678 
 Quebra no meio
 56 
-Quebra dnv
+Quebra de novo
 6 Achamos o elemento procurado.
 Isso só funciona quando está ordenada.
 ## Conceitos-chave

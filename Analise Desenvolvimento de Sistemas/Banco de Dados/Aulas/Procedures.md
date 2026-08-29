@@ -6,11 +6,11 @@ tipo: aula
 
 # Procedures, Functions, Triggers e Packages
 
-# Oque é uma procedure
-É um bloco de código, que recebe variaveis e não tem retorno. Ela pode chamar e executar funções sql.
+# O que é uma procedure
+É um bloco de código, que recebe variáveis e não tem retorno. Ela pode chamar e executar funções SQL.
 
 # Função
-São iguais a funções de outras linguagens, ela tem que ter um retorno, e não pode ser chamada em uma execução de sql.
+São iguais a funções de outras linguagens, ela tem que ter um retorno, e não pode ser chamada em uma execução de SQL.
 verf de qtde
 
 # Triggers
@@ -18,5 +18,5 @@ Ela é como se fosse uma função, mas é chamada automaticamente quando ocorre 
 Exemplo log de estoque
 
 # Packages 
-São um conjunto de procedures e funções, serve para organizar o codígo encapsular as variaveis e funcões.
-Declacao do head e do body.
+São um conjunto de procedures e funções, serve para organizar o código, encapsular as variáveis e funções.
+Declaração do head e do body.
