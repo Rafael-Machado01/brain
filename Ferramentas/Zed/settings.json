@@ -1,0 +1,89 @@
+{
+  // ── Tema ──────────────────────────────────────────────────────────────────
+  // Instale a extensão "Oscura" no marketplace (ctrl+shift+x → Extensions).
+  "theme": {
+    "mode": "dark",
+    "dark": "Oscura",
+    "light": "Gruvbox Dark"
+  },
+
+  // ── Fonte ─────────────────────────────────────────────────────────────────
+  "buffer_font_family": "JetBrains Mono",
+  "buffer_font_size": 16,
+  "buffer_line_height": { "custom": 1.8 },
+  "buffer_font_features": {
+    "calt": true,
+    "liga": true
+  },
+
+  // ── Editor ────────────────────────────────────────────────────────────────
+  "tab_size": 2,
+  "current_line_highlight": "gutter",
+  "scrollbar": { "show": "never" },
+  "autoscroll": "never",
+  "show_whitespaces": "none",
+  "gutter": {
+    "line_numbers": true,
+    "code_actions": false
+  },
+  "rulers": [
+    { "column": 80 },
+    { "column": 120 }
+  ],
+
+  // ── Completions ───────────────────────────────────────────────────────────
+  // LSP completions (popup): ligado, igual Diego
+  "show_completions_on_input": true,
+  // AI inline predictions (ghost text): desligado
+  "show_edit_predictions": false,
+
+  // ── Formatação ────────────────────────────────────────────────────────────
+  "format_on_save": "on",
+  "code_actions_on_format": {
+    "source.fixAll.eslint": true
+  },
+
+  // ── Terminal ──────────────────────────────────────────────────────────────
+  "terminal": {
+    "font_family": "JetBrainsMono Nerd Font",
+    "font_size": 14
+  },
+
+  // ── Tipos de arquivo ──────────────────────────────────────────────────────
+  "file_types": {
+    "Env": [".env.*", ".dev.vars", "*.ndjson"]
+  },
+
+  // ── Exclusões de scan ─────────────────────────────────────────────────────
+  "file_scan_exclusions": [
+    "**/.git",
+    "**/.svn",
+    "**/.hg",
+    "**/CVS",
+    "**/.DS_Store",
+    "**/.vscode"
+  ],
+
+  // ── File Nesting ──────────────────────────────────────────────────────────
+  "file_nesting": {
+    "enabled": true,
+    "patterns": {
+      "package.json": "package-lock.json, .eslint*, eslint.config.*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
+      "tailwind.config.*": "tailwind.config*, postcss.config*",
+      ".env.local": ".env*",
+      ".env": ".env*"
+    }
+  },
+
+  // ── Painel de projeto ─────────────────────────────────────────────────────
+  "project_panel": {
+    "auto_fold_dirs": false
+  },
+
+  // ── Por linguagem ─────────────────────────────────────────────────────────
+  "languages": {
+    "Prisma": {
+      "format_on_save": "on"
+    }
+  }
+}

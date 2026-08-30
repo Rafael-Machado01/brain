@@ -114,6 +114,12 @@ model Cidade {
 
 - Não executar migrate após uma atualização no schema → o banco fica desatualizado e o Prisma reclama que o schema está "out of sync" com o banco.
 
+
+```shell
+pnpm primsa validate // comando para ver se tem algum erro no schema escrito
+
+pnpm primsa format // comando para formatar o schema no modo prisma
+```
 ## Checklist de revisão
 
 - [x] Sei explicar sem olhar o código

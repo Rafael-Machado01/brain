@@ -42,6 +42,11 @@ Sem um adversário à altura, um homem não pode se fortalecer.
 Julgamento
 	 Matenha as pessoas na dúvida e no escuro, jamais revelando o propósito de seus atos. Não sabendo o que você pretende, não podem preparar uma defesa. Leve-as pelo caminho errado até bem longe, envolva em bastante fumaça e quando elas perceberem as suas itenções sera tarde demais.
 
+Faça igual no kart, quando queremos defender uma posição, podemos fazer o outro piloto deixar ele ultrapassar, mais deixe ele freiar bem encima, em quando voce apenas solte o acelerador, após ele não te ver, freie e deixe ele fazer a mal a curva, nisso voce faz o X e ultrapassa acelerando primeiro.
+
+A pele da Ovelha.
+	A ovelha não saqueia, a ovelha não engena, a ovelha é magnificamente tola e dócil. Com a pela da ovelha nas costas, a raposa entra direto no galinheiro.
+
 
 
 > [!tip] Ideia-chave

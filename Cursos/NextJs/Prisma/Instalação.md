@@ -30,7 +30,7 @@ Cria um projeto Prisma pronto para a conexão com o Supabase.
 pnpm add @prisma/client@7.9.1 @prisma/adapter-pg@7.9.1
 pnpm add -D prisma@7.9.1
 pnpm add dotenv
-npx prisma init                 # cria prisma/schema.prisma e .env
+pnpm prisma init --no-skills               # cria prisma/schema.prisma e .env
 pnpm prisma generate
 ```
 
@@ -43,22 +43,25 @@ DATABASE_URL="postgresql://usuario:senha@host:5432/postgres"
 `prisma.ts`:
 
 ```ts
-import { PrismaPg } from "@prisma/adapter-pg";
-import { PrismaClient } from "@/app/generated/prisma/client";
+import { PrismaPg } from "@prisma/adapter-pg"; // Para bancos postgrees
+import { PrismaClient } from "@/generated/prisma/client";
 
 const adapter = new PrismaPg({
   connectionString: process.env.DATABASE_URL!,
 });
 
-export const prisma = new PrismaClient({
+export const primsa = new PrismaClient({
   adapter,
 });
+// Isso permite fazermos await prisma.findMany etc..
+
 
 ```
 
 
 ``
-```
+```tsx
+prisma.config.ts
 
 import "dotenv/config";
 import { defineConfig, env } from "prisma/config";
@@ -87,7 +90,7 @@ export default defineConfig({
 
 - [x] Sei explicar sem olhar o código
 - [x] Sei reescrever do zero
-- [ ] Revisão após 1 semana
+- [x] Revisão após 1 semana
 
 ## Links relacionados
 
