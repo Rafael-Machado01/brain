@@ -1,6 +1,24 @@
 {
   // ── Tema ──────────────────────────────────────────────────────────────────
   // Instale a extensão "Oscura" no marketplace (ctrl+shift+x → Extensions).
+  "lsp": {
+    "vtsls": {
+      "settings": {
+        "typescript": {
+          "updateImportsOnFileMove": {
+            "enabled": "always"
+          }
+        },
+        "javascript": {
+          "updateImportsOnFileMove": {
+            "enabled": "always"
+          }
+        }
+      },
+      "enable_lsp_tasks": true
+    }
+  },
+  "icon_theme": "Zed (Default)",
   "theme": {
     "mode": "dark",
     "dark": "Oscura",
@@ -32,9 +50,7 @@
   ],
 
   // ── Completions ───────────────────────────────────────────────────────────
-  // LSP completions (popup): ligado, igual Diego
   "show_completions_on_input": true,
-  // AI inline predictions (ghost text): desligado
   "show_edit_predictions": false,
 
   // ── Formatação ────────────────────────────────────────────────────────────
