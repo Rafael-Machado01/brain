@@ -47,13 +47,24 @@ Faça igual no kart, quando queremos defender uma posição, podemos fazer o out
 A pele da Ovelha.
 	A ovelha não saqueia, a ovelha não engena, a ovelha é magnificamente tola e dócil. Com a pela da ovelha nas costas, a raposa entra direto no galinheiro.
 
+### Lei 4 - Diga menos do que o necessário
+Quanto mais você procura impressionar as pessoas com palavras, quanto mais você diz, mais comum aparenta ser, e menos controle da situação parece ter.
+
+***As palavras, depois de pronunciadas, não podem ser tomadas de volta. Mantenha-as sob controle. Cuidado particulamente com o sarcasmo: a satisfação momentanea que se tem dizendo frases sarcásticas será  menor doque o preço que se paga por ela.***
+
+Rileiev um prisioneiro russo, foi condenado a morte, no dia de sua execução a corda se rompeu, o prisioneiro estava salvo. Após ver que não tinha perdido sua vida gritou para multidão, "A russia não sabe nem fazer uma corda." O czar que ordenou a sua execução, ia lhe conceder o perdão, porém após saber o que o Rileiev disse, falou que vão provar o contrário sobre as cordas da russia, E foi para forca novamente.
+
+
 
 
 > [!tip] Ideia-chave
 
 ## Notas e insights
 No início da noite, Fouquet estava no topo do mundo. Quando ela terminou ele estava no chão. - Voltaire 
+
 Você não deve jamais baixar a guarda nessa aventura; entretanto, fique sempre atento a qualquer sinal de perturbação emocional, tal como inveja e ingratidão.
 
+Quanto mais você fala, maior a probabilidade de dizer uma besteira.
+Não acumula poder quem joga fora a riqueza das suas palavras
 ## Conceitos aplicáveis ao vault
 

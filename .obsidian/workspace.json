@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/Atual/As 48 leis do poder.md",
+                "file": "Cursos/Vercel/App Router/CLSX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "As 48 leis do poder"
+              "title": "CLSX"
             }
           }
         ]
@@ -188,9 +188,16 @@
   },
   "active": "20beca7073ab7f41",
   "lastOpenFiles": [
+    "Cursos/Vercel/App Router/Alias.md",
+    "Cursos/Vercel/App Router/CLSX.md",
+    "Cursos/NextJs/AuthJs/Verificar se esta logado hook.md",
+    "Analise Desenvolvimento de Sistemas/Algoritmo/Código/2-semestre/response.md",
+    "Livros/Atual/As 48 leis do poder.md",
+    "Cursos/NextJs/AuthJs/Provider Google.md",
+    "Cursos/NextJs/AuthJs/Logout.md",
+    "Cursos/NextJs/AuthJs/Instalação.md",
     "Cursos/NextJs/Prisma/Schemas.md",
     "Cursos/NextJs/Prisma/Instalação.md",
-    "Livros/Atual/As 48 leis do poder.md",
     "projects/rodeo-arena/docs/requirements.md",
     "projects/rodeo-arena/docs/image.png",
     "projects/rodeo-arena/docs/TrabEFCoreADST2.pdf",
@@ -226,12 +233,6 @@
     "projects/rodeo-arena/node_modules/expect-type/SECURITY.md",
     "projects/rodeo-arena/node_modules/bowser/README.md",
     "projects/rodeo-arena/node_modules/glob/node_modules/balanced-match/README.md",
-    "projects/rodeo-arena/node_modules/os-paths/README.md",
-    "projects/rodeo-arena/node_modules/glob/node_modules/balanced-match/LICENSE.md",
-    "projects/rodeo-arena/node_modules/@vitest/snapshot/README.md",
-    "projects/rodeo-arena/node_modules/@aws-sdk/credential-provider-http/README.md",
-    "projects/rodeo-arena/node_modules/expect-type/README.md",
-    "projects/rodeo-arena/node_modules/@aws-sdk/token-providers/README.md",
-    "projects/rodeo-arena/node_modules/@aws-sdk/credential-provider-ini/README.md"
+    "projects/rodeo-arena/node_modules/os-paths/README.md"
   ]
 }

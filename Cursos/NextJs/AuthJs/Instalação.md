@@ -65,7 +65,7 @@ export const { GET, POST } = handlers
 
 - [x] Sei explicar sem olhar o código
 - [x] Sei reescrever do zero
-- [ ] Revisão após 1 semana
+- [x] Revisão após 1 semana
 
 ## Links relacionados
 
