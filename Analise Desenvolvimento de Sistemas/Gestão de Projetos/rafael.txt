@@ -84,3 +84,29 @@ Melhorias mais inpactantes no desempenho na hora da sprint.
 
 6. Qual o objetivo principal da Sprint Retrospective?
 É um evento que conclui a sprint, ele é um relatorio do que foi feito, quem participou.
+
+Exercício de Fixação
+
+1. O que é o Product Backlog?
+Lista ordenada e emergente do que é necessário para melhorar/evoluir o produto. É a fonte do trabalho realizado pelo Scrum Team.
+
+2. Qual é o propósito do Product Backlog?
+Maximizar a transparência das informações, servindo como base para que todos que o inspecionam tenham a mesma referência para adaptação.
+
+3. Quais informações são encontradas no Product Backlog?
+Itens ordenados por prioridade, com descrição, tamanho e estimativas. Contém também a Meta do Produto como compromisso.
+
+4. Quem é responsável por gerenciar o Product Backlog?
+O Product Owner, que define, ordena (prioriza) e garante que ele seja transparente, visível e compreensível.
+
+5. O que é o Sprint Backlog?
+Plano feito por e para os Developers, composto pela Meta da Sprint (por quê), itens selecionados do Product Backlog (o quê) e um plano de ação para o Incremento (como).
+
+6. Qual é a relação entre Product Backlog e Sprint Backlog?
+Os itens selecionados do Product Backlog para uma Sprint formam o Sprint Backlog. O Product Backlog é a fonte; o Sprint Backlog é o subconjunto escolhido para aquela Sprint.
+
+7. O que é um Incremento?
+É um trampolim concreto em direção à Meta do Produto — resultado utilizável de cada Sprint, que se soma a todos os incrementos anteriores.
+
+8. Como o Incremento se relaciona aos artefatos?
+Seu compromisso é a Definição de Pronto (DoD): um item só integra o Incremento ao atendê-la. Ele é apresentado na Sprint Review e pode ser entregue antes mesmo do fim da Sprint.

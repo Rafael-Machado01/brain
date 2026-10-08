@@ -19,7 +19,7 @@ tipo: feature
 
 
 ```tsx
-npm install @edgestore/server @edgestore/react zod
+pnpm install @edgestore/server @edgestore/react zod
 
 EDGE_STORE_ACCESS_KEY=your-access-key
 EDGE_STORE_SECRET_KEY=your-secret-key // no .env
@@ -123,7 +123,7 @@ export type EdgeStoreRouter = typeof edgeStoreRouter;
 
 - [ ] Sei explicar sem olhar o código
 - [ ] Sei reescrever do zero
-- [ ] Revisão após 1 semana
+- [x] Revisão após 1 semana
 
 ## Links relacionados
 

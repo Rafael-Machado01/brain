@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Vercel/App Router/CLSX.md",
+                "file": "Analise Desenvolvimento de Sistemas/TCC/Métodologia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLSX"
+              "title": "Métodologia"
             }
           }
         ]
@@ -188,6 +188,17 @@
   },
   "active": "20beca7073ab7f41",
   "lastOpenFiles": [
+    "Analise Desenvolvimento de Sistemas/TCC/brainstorm.md",
+    "Analise Desenvolvimento de Sistemas/brainstorm.md",
+    "Analise Desenvolvimento de Sistemas/TCC/Apresentação do TCC Agosto.pptx",
+    "Analise Desenvolvimento de Sistemas/TCC/modelo_diretrizes_pre_formatado.docx",
+    "Analise Desenvolvimento de Sistemas/TCC/2_Folha_do_Aluno (1).docx",
+    "Cursos/NextJs/dev-sync/Editar Perfil.md",
+    "Analise Desenvolvimento de Sistemas/TCC/Métodologia.md",
+    "Analise Desenvolvimento de Sistemas/TCC/Brain storm.md",
+    "Cursos/NextJs/dev-sync/Segurança.md",
+    "Analise Desenvolvimento de Sistemas/TCC",
+    "Cursos/NextJs/dev-sync/EdgeStore - Armazenamento de imagens online.md",
     "Cursos/Vercel/App Router/Alias.md",
     "Cursos/Vercel/App Router/CLSX.md",
     "Cursos/NextJs/AuthJs/Verificar se esta logado hook.md",
@@ -209,10 +220,6 @@
     "projects/rodeo-arena/docs/Pasted image.png",
     "projects/rodeo-arena/app/types",
     "projects/rodeo-arena/package.json.3291551584",
-    "projects/rodeo-arena/_tmp_23815_8917614838859b53d84adaf2dfe8c923",
-    "projects/rodeo-arena/prisma/migrations/20260826234111_initial/migration.sql",
-    "projects/rodeo-arena/prisma/migrations/migration_lock.toml",
-    "projects/rodeo-arena/prisma/migrations/20260826234111_initial",
     "Pasted image 20260826202948.png",
     "Livros/Fila/Pai Rico Pai Pobre.md",
     "Analise Desenvolvimento de Sistemas/Algoritmo/Aulas/work.md",
@@ -226,13 +233,6 @@
     "projects/rodeo-arena/public/next.svg",
     "projects/rodeo-arena/public/globe.svg",
     "projects/rodeo-arena/public/file.svg",
-    "docs/requirements.md",
-    "projects/rodeo-arena/node_modules/@vitest/spy/README.md",
-    "projects/rodeo-arena/node_modules/glob/node_modules/brace-expansion/README.md",
-    "projects/rodeo-arena/node_modules/zeptomatch/readme.md",
-    "projects/rodeo-arena/node_modules/expect-type/SECURITY.md",
-    "projects/rodeo-arena/node_modules/bowser/README.md",
-    "projects/rodeo-arena/node_modules/glob/node_modules/balanced-match/README.md",
-    "projects/rodeo-arena/node_modules/os-paths/README.md"
+    "docs/requirements.md"
   ]
 }

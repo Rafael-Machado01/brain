@@ -25,7 +25,7 @@
         "npx",
         "-y",
         "@modelcontextprotocol/server-filesystem",
-        "{env:HOME}/w"
+        "{env:HOME}/work"
       ],
       "enabled": true
     },
