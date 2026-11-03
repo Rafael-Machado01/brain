@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "77917e2134637168",
+        "id": "3db5a93c6fc86b63",
         "type": "tabs",
         "children": [
           {
-            "id": "7fbd4a32c53e4a7e",
+            "id": "939bfdf05724f3e1",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "580ac30ceb2c749a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +72,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           }
         ],
@@ -185,17 +174,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "580ac30ceb2c749a",
+  "active": "939bfdf05724f3e1",
   "lastOpenFiles": [
+    "_index.md",
     "Analise Desenvolvimento de Sistemas/TCC/brainstorm.md",
     "Analise Desenvolvimento de Sistemas/brainstorm.md",
     "Analise Desenvolvimento de Sistemas/TCC/Apresentação do TCC Agosto.pptx",
@@ -240,7 +230,6 @@
     "projects/rodeo-arena/public/vercel.svg",
     "projects/rodeo-arena/public/next.svg",
     "projects/rodeo-arena/public/globe.svg",
-    "projects/rodeo-arena/public/file.svg",
-    "docs/requirements.md"
+    "projects/rodeo-arena/public/file.svg"
   ]
 }
