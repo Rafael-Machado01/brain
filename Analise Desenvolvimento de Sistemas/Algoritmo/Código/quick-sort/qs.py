@@ -1,17 +1,20 @@
-def quick_sort(lista):
-    if(len(lista) <= 1):
-        return lista
-    pivo = lista[0]
-    resto = lista[1:]
-    menor = []
-    maior = []
-    for x in resto:
-        if x < pivo:
-            menor.append(x)
-        else:
-            maior.append(x)
-    return quick_sort(menor) + [pivo] + quick_sort(maior)
+def quick(lista,inicio = 0,fim = None):
+    if fim is None: 
+        fim = len(lista) - 1 
+                        
+    if inicio < fim: 
+        pivo = partition(lista,inicio,fim)
+        quick(lista,inicio, pivo - 1) 
+        quick(lista, pivo + 1, fim) 
 
-print(quick_sort([5, 3, 4, 1, 2, 2]))
+def partition(lista, inicio, fim):
+    pivo = lista[inicio] 
+    i = inicio + 1 
 
-    
+    for j in range(inicio + 1, fim + 1): 
+        if lista[j] <= pivo: 
+            lista[j], lista[i] = lista[i], lista[j] 
+            i += 1 
+
+    lista[inicio], lista[i - 1] = lista[i - 1], lista[inicio] 
+    return i - 1

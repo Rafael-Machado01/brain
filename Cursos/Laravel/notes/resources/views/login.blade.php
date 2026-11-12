@@ -42,7 +42,7 @@
                     <small>&copy; <?= date('Y') ?> Notes</small>
                 </div>
 
-                {{-- @if($errors->any())
+                 @if($errors->any())
                     <dev class="alert alert-danger mt-3">
                         <ul class="m-0">
                             @foreach($errors->all() as $error)
@@ -50,7 +50,12 @@
                             @endforeach
                         </ul>
                     </dev>
-                @endif --}}
+                @endif 
+                @if(session('LoginError'))
+                    <dev class="alert alert-danger mt-3">
+                        {{ session('LoginError') }}
+                    </dev>
+                @endif
             </div>
         </div>
     </div>
